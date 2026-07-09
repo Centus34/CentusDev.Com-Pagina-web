@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Centus Dev | Creador de Contenido de Videojuegos</title>
+  <meta name="description" content="Centus Dev: creador de contenido sobre desarrollo de videojuegos. Vídeos, devlogs y proyectos indie hechos en Unity.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://centusdev.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://centusdev.com/">
+  <meta property="og:title" content="Centus Dev | Creador de Contenido de Videojuegos">
+  <meta property="og:description" content="Vídeos, devlogs y proyectos indie sobre desarrollo de videojuegos, hechos en Unity.">
+  <meta property="og:image" content="https://centusdev.com/images/FotoDePerfilFINAL_JPG.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Centus Dev | Creador de Contenido de Videojuegos">
+  <meta name="twitter:description" content="Creo contenido sobre desarrollo de videojuegos y construyo mis propios proyectos indie en Unity.">
+  <meta name="twitter:image" content="https://centusdev.com/images/FotoDePerfilFINAL_JPG.jpg">
+  <link rel="icon" type="image/svg+xml" href="images/FotoDePerfilFINAL_Vectorizada.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,800;1,9..144,600&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="personal-site.css?v=9">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Centus Dev",
+      "url": "https://centusdev.com/",
+      "email": "centusgamedev@gmail.com",
+      "jobTitle": "Creador de Contenido de Videojuegos",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Virtual Soul"
+      },
+      "knowsAbout": ["Creación de contenido", "Unity", "Game Design", "Desarrollo indie"],
+      "sameAs": [
+        "https://www.youtube.com/@CentusDev",
+        "https://www.tiktok.com/@centusdev",
+        "https://www.instagram.com/centusdev/",
+        "https://beacons.ai/centusdev"
+      ]
+    }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido-principal">Saltar al contenido principal</a>
+
+  <div class="site-background" aria-hidden="true">
+    <div class="paper-texture"></div>
+    <canvas id="particleCanvas"></canvas>
+  </div>
+
+  <!-- ===== NAVIGATION ===== -->
+  <header class="site-header" id="inicio">
+    <a class="site-logo magnetic-link" href="#inicio" aria-label="Ir al inicio">
+      <img class="site-logo-mark" src="images/FotoDePerfilFINAL_Vectorizada.svg" alt="" width="40" height="40">
+      <span class="site-logo-word">Centus<strong>Dev</strong></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="site-navigation">
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav class="site-nav" id="site-navigation" aria-label="Navegación principal">
+      <a class="magnetic-link" href="#sobre-mi">Sobre mí</a>
+      <a class="magnetic-link" href="#que-hago">Qué hago</a>
+      <a class="magnetic-link" href="#contenido">Contenido</a>
+      <a class="magnetic-link" href="#proyecto">Proyecto</a>
+      <a class="magnetic-link" href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <main id="contenido-principal">
+    <!-- ===== HERO ===== -->
+    <section class="hero-section section-pad" aria-labelledby="hero-title">
+      <p class="hero-wordmark" aria-hidden="true">GAME DEV</p>
+
+      <div class="hero-content">
+        <div class="role-pills reveal-line" aria-hidden="true">
+          <span class="role-pill">Creador de Contenido</span>
+          <span class="role-pill role-pill-ghost">Game Dev</span>
+        </div>
+
+        <h1 id="hero-title" class="hero-title reveal-line">Centus <span class="accent-word">Dev</span></h1>
+
+        <p class="hero-tagline reveal-line">Cuento cómo se hacen los videojuegos, mientras hago los míos.</p>
+
+        <p class="hero-description reveal-line">
+          Grabo, edito y comparto todo el proceso de desarrollar videojuegos en Unity: desde la primera idea hasta el primer prototipo jugable.
+        </p>
+
+        <div class="hero-actions reveal-line" aria-label="Acciones principales">
+          <a class="primary-button magnetic-link" href="#contenido">Ver mi contenido</a>
+          <a class="secondary-button magnetic-link" href="#contacto">Escríbeme</a>
+        </div>
+
+        <ul class="social-row reveal-line" aria-label="Redes sociales">
+          <li>
+            <a class="social-chip magnetic-link" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noreferrer">
+              <span class="icon-badge icon-badge-youtube" aria-hidden="true">
+                <svg viewBox="0 0 24 24"><path d="M9.6 8.4v7.2l6.3-3.6z" fill="#fff"></path></svg>
+              </span>
+              <span>YouTube</span>
+            </a>
+          </li>
+          <li>
+            <a class="social-chip magnetic-link" href="https://www.instagram.com/centusdev/" target="_blank" rel="noreferrer">
+              <span class="icon-badge icon-badge-instagram" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="5"></rect><circle cx="12" cy="12" r="3.6"></circle><circle cx="16.3" cy="7.7" r="0.65" fill="#fff" stroke="none"></circle></svg>
+              </span>
+              <span>Instagram</span>
+            </a>
+          </li>
+          <li>
+            <a class="social-chip magnetic-link" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noreferrer">
+              <span class="icon-badge icon-badge-tiktok" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M13.7 6v9a3.1 3.1 0 1 1-2.5-3.05" stroke="#25F4EE" stroke-width="1.7"></path><path d="M13.35 5.6c.4 2.15 2.15 3.8 4.3 4.2" stroke="#FE2C55" stroke-width="1.7"></path><path d="M13.7 6.5v8.5a3.1 3.1 0 1 1-2.5-3.05" stroke="#fff" stroke-width="1.1"></path></svg>
+              </span>
+              <span>TikTok</span>
+            </a>
+          </li>
+          <li>
+            <a class="social-chip magnetic-link" href="mailto:centusgamedev@gmail.com">
+              <span class="icon-badge icon-badge-email" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="6" width="17" height="12" rx="2.2"></rect><path d="M4.5 7 12 12.5 19.5 7"></path></svg>
+              </span>
+              <span>Email</span>
+            </a>
+          </li>
+          <li>
+            <a class="social-chip magnetic-link" href="https://beacons.ai/centusdev" target="_blank" rel="noreferrer">
+              <span class="icon-badge icon-badge-beacons" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="#2b170f" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="16.3" r="1.7" fill="#2b170f" stroke="none"></circle><path d="M8.3 12.6a5.6 5.6 0 0 1 7.4 0"></path><path d="M5.4 9.6a9.6 9.6 0 0 1 13.2 0"></path></svg>
+              </span>
+              <span>Beacons (todos mis enlaces)</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="hero-visual">
+        <div class="hero-portrait">
+          <div class="portrait-blob blob-a" aria-hidden="true"></div>
+          <div class="portrait-blob blob-b" aria-hidden="true"></div>
+          <img class="portrait-image" src="images/FotoDePerfilFINAL_JPG.jpg" alt="Foto de Centus Dev">
+          <div class="floating-tag tag-content" aria-hidden="true">
+            <span>Cada semana</span>
+            <strong>Contenido de Game Dev</strong>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== ABOUT ME ===== -->
+    <section class="about-section section-pad" id="sobre-mi" aria-labelledby="about-title">
+      <div class="section-heading">
+        <p class="section-kicker">Sobre mí</p>
+        <h2 id="about-title">Creo contenido sobre desarrollo de videojuegos y, mientras tanto, también los desarrollo.</h2>
+      </div>
+
+      <div class="about-layout">
+        <div class="about-copy">
+          <p>
+            Soy Centus Dev. Grabo, edito y explico procesos de desarrollo de videojuegos para que se entiendan mejor, sin tecnicismos innecesarios.
+          </p>
+          <p>
+            Me interesa entender cómo funcionan los juegos por dentro: mecánicas, sistemas y las decisiones de diseño detrás de cada experiencia. Por eso, además de crear contenido, estudio Ingeniería Informática y Diseño y Desarrollo de Videojuegos, desarrollo mis propios juegos en Unity y participo en Game Jams siempre que puedo.
+          </p>
+          <p>
+            He trabajado en Virtual Soul, una asociación universitaria dedicada al desarrollo de videojuegos, donde he colaborado organizando eventos, actividades y Game Jams.
+          </p>
+        </div>
+
+        <ul class="about-tags" aria-label="Identidad resumida">
+          <li>Creador de contenido</li>
+          <li>Estudiante</li>
+          <li>Dev indie</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===== WHAT I DO ===== -->
+    <section class="focus-section section-pad" id="que-hago" aria-labelledby="focus-title">
+      <div class="section-heading">
+        <p class="section-kicker">Qué hago</p>
+        <h2 id="focus-title">Tres cosas en paralelo, una sola identidad.</h2>
+      </div>
+
+      <div class="focus-grid">
+        <article class="focus-card">
+          <span class="focus-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5.5" width="14" height="13" rx="3"></rect><path d="M16.5 10.2 21 7.5v9l-4.5-2.7"></path></svg>
+          </span>
+          <h3>Creación de contenido</h3>
+          <p>Vídeos y clips sobre desarrollo de videojuegos: procesos reales, aprendizajes y detrás de cámaras.</p>
+        </article>
+        <article class="focus-card">
+          <span class="focus-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="7" width="19" height="11" rx="4"></rect><path d="M8 11v3.2M6.4 12.6h3.2"></path><circle cx="15.4" cy="11.6" r="1"></circle><circle cx="17.8" cy="14" r="1"></circle></svg>
+          </span>
+          <h3>Desarrollo de videojuegos</h3>
+          <p>Prototipo mecánicas y desarrollo mis propios proyectos indie en Unity.</p>
+        </article>
+        <article class="focus-card">
+          <span class="focus-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4 2.5 8.5 12 13l9.5-4.5z"></path><path d="M6 10.6v4.3c0 1.7 2.7 3.1 6 3.1s6-1.4 6-3.1v-4.3"></path></svg>
+          </span>
+          <h3>Estudios y Game Jams</h3>
+          <p>Ingeniería Informática y Diseño y Desarrollo de Videojuegos, combinados con Game Jams siempre que puedo.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ===== CONTENT / SOCIAL ===== -->
+    <section class="content-section section-pad" id="contenido" aria-labelledby="content-title">
+      <div class="section-heading">
+        <p class="section-kicker">Contenido</p>
+        <h2 id="content-title">Todo mi contenido está aquí.</h2>
+        <p class="section-lead">Vídeos, clips y el proceso real de crear videojuegos, cada semana.</p>
+      </div>
+
+      <div class="social-grid">
+        <a class="platform-card magnetic-link" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noreferrer">
+          <span class="icon-badge icon-badge-lg icon-badge-youtube" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M9.6 8.4v7.2l6.3-3.6z" fill="#fff"></path></svg>
+          </span>
+          <span class="platform-name">YouTube</span>
+          <span class="platform-handle">@CentusDev</span>
+        </a>
+        <a class="platform-card magnetic-link" href="https://www.instagram.com/centusdev/" target="_blank" rel="noreferrer">
+          <span class="icon-badge icon-badge-lg icon-badge-instagram" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="5"></rect><circle cx="12" cy="12" r="3.6"></circle><circle cx="16.3" cy="7.7" r="0.65" fill="#fff" stroke="none"></circle></svg>
+          </span>
+          <span class="platform-name">Instagram</span>
+          <span class="platform-handle">@centusdev</span>
+        </a>
+        <a class="platform-card magnetic-link" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noreferrer">
+          <span class="icon-badge icon-badge-lg icon-badge-tiktok" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M13.7 6v9a3.1 3.1 0 1 1-2.5-3.05" stroke="#25F4EE" stroke-width="1.7"></path><path d="M13.35 5.6c.4 2.15 2.15 3.8 4.3 4.2" stroke="#FE2C55" stroke-width="1.7"></path><path d="M13.7 6.5v8.5a3.1 3.1 0 1 1-2.5-3.05" stroke="#fff" stroke-width="1.1"></path></svg>
+          </span>
+          <span class="platform-name">TikTok</span>
+          <span class="platform-handle">@centusdev</span>
+        </a>
+        <a class="platform-card magnetic-link" href="mailto:centusgamedev@gmail.com">
+          <span class="icon-badge icon-badge-lg icon-badge-email" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="6" width="17" height="12" rx="2.2"></rect><path d="M4.5 7 12 12.5 19.5 7"></path></svg>
+          </span>
+          <span class="platform-name">Email</span>
+          <span class="platform-handle">centusgamedev@gmail.com</span>
+        </a>
+        <a class="platform-card platform-card-accent magnetic-link" href="https://beacons.ai/centusdev" target="_blank" rel="noreferrer">
+          <span class="icon-badge icon-badge-lg icon-badge-beacons" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#2b170f" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="16.3" r="1.7" fill="#2b170f" stroke="none"></circle><path d="M8.3 12.6a5.6 5.6 0 0 1 7.4 0"></path><path d="M5.4 9.6a9.6 9.6 0 0 1 13.2 0"></path></svg>
+          </span>
+          <span class="platform-name">Beacons</span>
+          <span class="platform-handle">Todos mis enlaces</span>
+        </a>
+      </div>
+
+      <div class="mini-card-row">
+        <a class="mini-card magnetic-link" href="https://beacons.ai/centusdev/mediakit" target="_blank" rel="noreferrer">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"></rect><path d="M8 13v4M12 9v8M16 11v6"></path></svg>
+          <div>
+            <span class="mini-card-kicker">Para marcas</span>
+            <h3>Media Kit</h3>
+            <p>Audiencia, formatos y propuestas de colaboración en Beacons.</p>
+          </div>
+        </a>
+        <a class="mini-card mini-card-dark magnetic-link" href="mailto:centusgamedev@gmail.com" id="contacto">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5" width="19" height="14" rx="2.5"></rect><path d="M3.5 6.5 12 13l8.5-6.5"></path></svg>
+          <div>
+            <span class="mini-card-kicker">¿Trabajamos juntos?</span>
+            <h3>Colaboraciones y proyectos</h3>
+            <p>Escríbeme para eventos, contenido o ideas conjuntas.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== PROJECT ===== -->
+    <section class="project-section section-pad" id="proyecto" aria-labelledby="project-title">
+      <div class="section-heading">
+        <p class="section-kicker">Proyecto</p>
+        <h2 id="project-title">Mis proyectos indie.</h2>
+      </div>
+
+      <div class="project-grid">
+        <article class="feature-project">
+          <div class="feature-project-art" aria-hidden="true">
+            <span>Indie</span>
+          </div>
+          <div class="feature-project-content">
+            <p class="feature-project-label">En desarrollo · Unity</p>
+            <h3>El próximo proyecto indie</h3>
+            <p>Un espacio preparado para mostrar concepto, prototipos, capturas, demo y todo el proceso de crear un juego con identidad propia.</p>
+            <a class="text-link magnetic-link" href="#contacto">Preguntar por el proyecto</a>
+          </div>
+        </article>
+
+        <article class="feature-project-soon">
+          <p class="feature-project-label">Muy pronto</p>
+          <h3>Nuevo proyecto indie</h3>
+          <p>Aquí aparecerá el próximo prototipo o juego en el que esté trabajando.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <p>Centus Dev · Creador de contenido y Game Developer.</p>
+    <ul class="footer-social" aria-label="Redes sociales">
+      <li><a class="magnetic-link" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noreferrer">YouTube</a></li>
+      <li><a class="magnetic-link" href="https://www.instagram.com/centusdev/" target="_blank" rel="noreferrer">Instagram</a></li>
+      <li><a class="magnetic-link" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noreferrer">TikTok</a></li>
+      <li><a class="magnetic-link" href="mailto:centusgamedev@gmail.com">Email</a></li>
+      <li><a class="magnetic-link" href="https://beacons.ai/centusdev" target="_blank" rel="noreferrer">Beacons</a></li>
+    </ul>
+    <a class="magnetic-link" href="#inicio">Volver arriba</a>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js"></script>
+  <script src="personal-site.js?v=9" defer></script>
+</body>
+</html>
