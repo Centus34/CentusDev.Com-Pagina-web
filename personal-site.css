@@ -914,7 +914,7 @@ h3 {
   transform: translate(-50%, -50%) scale(1);
 }
 
-/* Hitbox que aparece al pasar por encima: la firma de la web */
+/* Hitbox de la tarjeta: solo se ve en el modo debug (BoxCollider) */
 .video-card-hitbox {
   position: absolute;
   inset: 8px;
@@ -941,10 +941,6 @@ h3 {
   font-weight: 700;
 }
 
-.video-card:hover .video-card-hitbox {
-  opacity: 1;
-  transform: none;
-}
 
 .video-skeleton {
   aspect-ratio: 9 / 16;
