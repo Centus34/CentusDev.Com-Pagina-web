@@ -3,24 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Centus Dev | Creador de Contenido de Videojuegos</title>
-  <meta name="description" content="Centus Dev: creador de contenido sobre desarrollo de videojuegos. Vídeos, devlogs y proyectos indie hechos en Unity.">
+  <title>Centus Dev · Los videojuegos, por dentro</title>
+  <meta name="description" content="Centus Dev hace videojuegos y explica en vídeos cortos cómo funcionan por dentro. Vídeos, juegos, colaboraciones y contacto.">
   <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#ffec90">
   <link rel="canonical" href="https://centusdev.com/">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://centusdev.com/">
-  <meta property="og:title" content="Centus Dev | Creador de Contenido de Videojuegos">
-  <meta property="og:description" content="Vídeos, devlogs y proyectos indie sobre desarrollo de videojuegos, hechos en Unity.">
+  <meta property="og:title" content="Centus Dev · Los videojuegos, por dentro">
+  <meta property="og:description" content="Hago videojuegos y, en vídeos cortos, cuento cómo funcionan por dentro los que juegas tú.">
   <meta property="og:image" content="https://centusdev.com/images/FotoDePerfilFINAL_JPG.jpg">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Centus Dev | Creador de Contenido de Videojuegos">
-  <meta name="twitter:description" content="Creo contenido sobre desarrollo de videojuegos y construyo mis propios proyectos indie en Unity.">
+  <meta name="twitter:title" content="Centus Dev · Los videojuegos, por dentro">
+  <meta name="twitter:description" content="Hago videojuegos y, en vídeos cortos, cuento cómo funcionan por dentro los que juegas tú.">
   <meta name="twitter:image" content="https://centusdev.com/images/FotoDePerfilFINAL_JPG.jpg">
   <link rel="icon" type="image/svg+xml" href="images/FotoDePerfilFINAL_Vectorizada.svg">
+  <link rel="apple-touch-icon" href="images/FotoDePerfilFINAL_JPG.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,800;1,9..144,600&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="personal-site.css?v=9">
+  <link rel="preconnect" href="https://i.ytimg.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="personal-site.css?v=19">
+  <script>document.documentElement.classList.add("js")</script>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -28,300 +32,587 @@
       "name": "Centus Dev",
       "url": "https://centusdev.com/",
       "email": "centusgamedev@gmail.com",
-      "jobTitle": "Creador de Contenido de Videojuegos",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Virtual Soul"
-      },
-      "knowsAbout": ["Creación de contenido", "Unity", "Game Design", "Desarrollo indie"],
+      "image": "https://centusdev.com/images/FotoDePerfilFINAL_JPG.jpg",
+      "homeLocation": { "@type": "Place", "name": "Madrid" },
+      "jobTitle": "Creador de contenido y desarrollador de videojuegos",
+      "memberOf": { "@type": "Organization", "name": "Virtual Soul", "url": "https://virtualsoul.es/" },
+      "knowsAbout": ["Desarrollo de videojuegos", "Creación de contenido", "Game jams", "Organización de eventos"],
       "sameAs": [
         "https://www.youtube.com/@CentusDev",
         "https://www.tiktok.com/@centusdev",
         "https://www.instagram.com/centusdev/",
+        "https://centus.itch.io/",
         "https://beacons.ai/centusdev"
       ]
     }
   </script>
 </head>
 <body>
-  <a class="skip-link" href="#contenido-principal">Saltar al contenido principal</a>
+  <!-- Iconos: redes (Simple Icons, CC0) + iconos propios de línea -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="i-yt" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></symbol>
+    <symbol id="i-tt" viewBox="0 0 24 24"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></symbol>
+    <symbol id="i-ig" viewBox="0 0 24 24"><path d="M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.3876-2.1228C21.2982 1.33 20.628.9208 19.8378.6165 19.074.321 18.2017.1197 16.9244.0645 15.6471.0093 15.236-.005 11.977.0014 8.718.0076 8.31.0215 7.0301.0839m.1402 21.6932c-1.17-.0509-1.8053-.2453-2.2287-.408-.5606-.216-.96-.4771-1.3819-.895-.422-.4178-.6811-.8186-.9-1.378-.1644-.4234-.3624-1.058-.4171-2.228-.0595-1.2645-.072-1.6442-.079-4.848-.007-3.2037.0053-3.583.0607-4.848.05-1.169.2456-1.805.408-2.2282.216-.5613.4762-.96.895-1.3816.4188-.4217.8184-.6814 1.3783-.9003.423-.1651 1.0575-.3614 2.227-.4171 1.2655-.06 1.6447-.072 4.848-.079 3.2033-.007 3.5835.005 4.8495.0608 1.169.0508 1.8053.2445 2.228.408.5608.216.96.4754 1.3816.895.4217.4194.6816.8176.9005 1.3787.1653.4217.3617 1.056.4169 2.2263.0602 1.2655.0739 1.645.0796 4.848.0058 3.203-.0055 3.5834-.061 4.848-.051 1.17-.245 1.8055-.408 2.2294-.216.5604-.4763.96-.8954 1.3814-.419.4215-.8181.6811-1.3783.9-.4224.1649-1.0577.3617-2.2262.4174-1.2656.0595-1.6448.072-4.8493.079-3.2045.007-3.5825-.006-4.848-.0608M16.953 5.5864A1.44 1.44 0 1 0 18.39 4.144a1.44 1.44 0 0 0-1.437 1.4424M5.8385 12.012c.0067 3.4032 2.7706 6.1557 6.173 6.1493 3.4026-.0065 6.157-2.7701 6.1506-6.1733-.0065-3.4032-2.771-6.1565-6.174-6.1498-3.403.0067-6.156 2.771-6.1496 6.1738M8 12.0077a4 4 0 1 1 4.008 3.9921A3.9996 3.9996 0 0 1 8 12.0077"/></symbol>
+    <symbol id="i-itch" viewBox="0 0 24 24"><path d="M3.13 1.338C2.08 1.96.02 4.328 0 4.95v1.03c0 1.303 1.22 2.45 2.325 2.45 1.33 0 2.436-1.102 2.436-2.41 0 1.308 1.07 2.41 2.4 2.41 1.328 0 2.362-1.102 2.362-2.41 0 1.308 1.137 2.41 2.466 2.41h.024c1.33 0 2.466-1.102 2.466-2.41 0 1.308 1.034 2.41 2.363 2.41 1.33 0 2.4-1.102 2.4-2.41 0 1.308 1.106 2.41 2.435 2.41C22.78 8.43 24 7.282 24 5.98V4.95c-.02-.62-2.082-2.99-3.13-3.612-3.253-.114-5.508-.134-8.87-.133-3.362 0-7.945.053-8.87.133zm6.376 6.477a2.74 2.74 0 0 1-.468.602c-.5.49-1.19.795-1.947.795a2.786 2.786 0 0 1-1.95-.795c-.182-.178-.32-.37-.446-.59-.127.222-.303.412-.486.59a2.788 2.788 0 0 1-1.95.795c-.092 0-.187-.025-.264-.052-.107 1.113-.152 2.176-.168 2.95v.005l-.006 1.167c.02 2.334-.23 7.564 1.03 8.85 1.952.454 5.545.662 9.15.663 3.605 0 7.198-.21 9.15-.664 1.26-1.284 1.01-6.514 1.03-8.848l-.006-1.167v-.004c-.016-.775-.06-1.838-.168-2.95-.077.026-.172.052-.263.052a2.788 2.788 0 0 1-1.95-.795c-.184-.178-.36-.368-.486-.59-.127.22-.265.412-.447.59a2.786 2.786 0 0 1-1.95.794c-.76 0-1.446-.303-1.948-.793a2.74 2.74 0 0 1-.468-.602 2.738 2.738 0 0 1-.463.602 2.787 2.787 0 0 1-1.95.794h-.16a2.787 2.787 0 0 1-1.95-.793 2.738 2.738 0 0 1-.464-.602zm-2.004 2.59v.002c.795.002 1.5 0 2.373.953.687-.072 1.406-.108 2.125-.107.72 0 1.438.035 2.125.107.873-.953 1.578-.95 2.372-.953.376 0 1.876 0 2.92 2.934l1.123 4.028c.832 2.995-.266 3.068-1.636 3.07-2.03-.075-3.156-1.55-3.156-3.025-1.124.184-2.436.276-3.748.277-1.312 0-2.624-.093-3.748-.277 0 1.475-1.125 2.95-3.156 3.026-1.37-.004-2.468-.077-1.636-3.072l1.122-4.027c1.045-2.934 2.545-2.934 2.92-2.934zM12 12.714c-.002.002-2.14 1.964-2.523 2.662l1.4-.056v1.22c0 .056.56.033 1.123.007.562.026 1.124.05 1.124-.008v-1.22l1.4.055C14.138 14.677 12 12.713 12 12.713z"/></symbol>
+    <symbol id="i-mail" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="3"/><path d="m3.5 7 8.5 6.5L20.5 7"/></symbol>
+    <symbol id="i-link" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1 1"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1-1"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></symbol>
+    <symbol id="i-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4.5" width="18" height="16" rx="3"/><path d="M3 9.5h18M8 2.5v4M16 2.5v4"/><path d="m9 15 2 2 4-4"/></symbol>
+    <symbol id="i-megaphone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10v4a1 1 0 0 0 1 1h3l6 4.5v-15L7 9H4a1 1 0 0 0-1 1z"/><path d="M17 8.5a5 5 0 0 1 0 7M19.5 6a8.5 8.5 0 0 1 0 12"/></symbol>
+    <symbol id="i-social" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2.5" width="12" height="19" rx="3"/><path d="M10.5 18.5h3"/><path d="M12 13.2s-2.8-1.7-2.8-3.4a1.5 1.5 0 0 1 2.8-.8 1.5 1.5 0 0 1 2.8.8c0 1.7-2.8 3.4-2.8 3.4z"/></symbol>
+    <symbol id="i-clapper" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="9" width="18" height="12" rx="2"/><path d="m3.5 9 1.2-4.5 15.8 0 .5 4.5"/><path d="m8.5 4.5 2.5 4.5M14 4.5l2.5 4.5"/></symbol>
+    <symbol id="i-pad" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10a5 5 0 0 1 4.8 6.4l-1.1 3.8a2.3 2.3 0 0 1-3.9.9L14.5 15h-5l-2.3 3.1a2.3 2.3 0 0 1-3.9-.9l-1.1-3.8A5 5 0 0 1 7 7z"/><path d="M8 10v3M6.5 11.5h3"/><circle cx="15.5" cy="10.5" r=".6" fill="currentColor"/><circle cx="17" cy="12.5" r=".6" fill="currentColor"/></symbol>
+    <symbol id="i-hourglass" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2.5h12M6 21.5h12"/><path d="M7.5 2.5v3a4.5 4.5 0 0 0 9 0v-3M7.5 21.5v-3a4.5 4.5 0 0 1 9 0v3"/><path d="M10 19.5h4"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="4.5" width="19" height="15" rx="4"/><path d="m10 9 5 3-5 3z" fill="currentColor"/></symbol>
+    <symbol id="i-chart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20.5h18"/><path d="M6 16.5v-4M11 16.5v-8M16 16.5V5.5"/><path d="m18.5 8 2-2.5 1 3"/></symbol>
+    <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3.5h10v5a5 5 0 0 1-10 0z"/><path d="M7 5.5H4v1.5a3 3 0 0 0 3 3M17 5.5h3v1.5a3 3 0 0 1-3 3"/><path d="M12 13.5v4M8 21h8M9 17.5h6v3.5H9z"/></symbol>
+    <symbol id="i-plane" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 4.5 10.5 15M21 4.5l-6.5 16-4-5.5-5.5-4z"/></symbol>
+    <symbol id="i-handshake" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="7" width="19" height="13" rx="3"/><path d="M8.5 7V5.5a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2V7"/><path d="M2.5 12.5h19"/><path d="M10.5 12.5v2h3v-2"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-floppy" viewBox="0 0 24 24"><path d="M3.5 2.5h14l3 3v15a1 1 0 0 1-1 1h-16a1 1 0 0 1-1-1v-17a1 1 0 0 1 1-1z" fill="#623722" stroke="#2b170f" stroke-width="1.4" stroke-linejoin="round"/><rect x="7" y="2.5" width="9" height="6.5" rx=".6" fill="#e9dfcf" stroke="#2b170f" stroke-width="1.2"/><rect x="12.4" y="3.6" width="2" height="4.3" rx=".4" fill="#623722"/><rect x="5.5" y="12" width="13" height="8" rx="1" fill="#ffec90" stroke="#2b170f" stroke-width="1.2"/><path d="M7.5 14.6h9M7.5 17.2h6" stroke="#c9a94a" stroke-width="1.1" stroke-linecap="round"/></symbol>
+    <symbol id="i-card" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 2.5h9l3 3v16H6z"/><path d="M9 2.5v4M12 2.5v4M15 2.5v4" stroke-linecap="round"/><rect x="9" y="12" width="6" height="5" rx="1"/></symbol>
+  </svg>
 
-  <div class="site-background" aria-hidden="true">
-    <div class="paper-texture"></div>
-    <canvas id="particleCanvas"></canvas>
-  </div>
+  <a class="skip-link" href="#contenido-principal">Saltar al contenido</a>
 
-  <!-- ===== NAVIGATION ===== -->
-  <header class="site-header" id="inicio">
-    <a class="site-logo magnetic-link" href="#inicio" aria-label="Ir al inicio">
-      <img class="site-logo-mark" src="images/FotoDePerfilFINAL_Vectorizada.svg" alt="" width="40" height="40">
-      <span class="site-logo-word">Centus<strong>Dev</strong></span>
+  <!-- ===== CABECERA ===== -->
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="Centus Dev, ir al inicio">
+      <img class="brand-mark" src="images/FotoDePerfilFINAL_JPG.jpg" alt="" width="40" height="40">
+      <span class="brand-word">Centus<b>Dev</b></span>
     </a>
 
-    <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="site-navigation">
-      <span></span>
-      <span></span>
+    <nav class="site-nav" id="site-nav" aria-label="Navegación principal">
+      <a href="#videos">Vídeos</a>
+      <a href="#juegos">Juegos</a>
+      <a href="#sobre-mi">Sobre mí</a>
+      <a href="#marcas">Marcas</a>
+      <a class="nav-cta" href="#contacto">Trabajemos juntos</a>
+    </nav>
+
+    <button class="debug-toggle" type="button" aria-pressed="false" hidden title="Modo debug (tecla D)">
+      <span class="debug-toggle-dot" aria-hidden="true"></span>debug
     </button>
 
-    <nav class="site-nav" id="site-navigation" aria-label="Navegación principal">
-      <a class="magnetic-link" href="#sobre-mi">Sobre mí</a>
-      <a class="magnetic-link" href="#que-hago">Qué hago</a>
-      <a class="magnetic-link" href="#contenido">Contenido</a>
-      <a class="magnetic-link" href="#proyecto">Proyecto</a>
-      <a class="magnetic-link" href="#contacto">Contacto</a>
-    </nav>
+    <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="site-nav">
+      <span></span><span></span>
+    </button>
   </header>
 
   <main id="contenido-principal">
+
     <!-- ===== HERO ===== -->
-    <section class="hero-section section-pad" aria-labelledby="hero-title">
-      <p class="hero-wordmark" aria-hidden="true">GAME DEV</p>
-
-      <div class="hero-content">
-        <div class="role-pills reveal-line" aria-hidden="true">
-          <span class="role-pill">Creador de Contenido</span>
-          <span class="role-pill role-pill-ghost">Game Dev</span>
-        </div>
-
-        <h1 id="hero-title" class="hero-title reveal-line">Centus <span class="accent-word">Dev</span></h1>
-
-        <p class="hero-tagline reveal-line">Cuento cómo se hacen los videojuegos, mientras hago los míos.</p>
-
-        <p class="hero-description reveal-line">
-          Grabo, edito y comparto todo el proceso de desarrollar videojuegos en Unity: desde la primera idea hasta el primer prototipo jugable.
+    <section class="hero" id="inicio" aria-labelledby="hero-title" data-hitbox="Hero">
+      <div class="hero-copy">
+        <p class="hero-meta">
+          <svg aria-hidden="true"><use href="#i-pin"/></svg>
+          Madrid · Creador de contenido y desarrollador de videojuegos
         </p>
 
-        <div class="hero-actions reveal-line" aria-label="Acciones principales">
-          <a class="primary-button magnetic-link" href="#contenido">Ver mi contenido</a>
-          <a class="secondary-button magnetic-link" href="#contacto">Escríbeme</a>
-        </div>
+        <h1 class="hero-title" id="hero-title">
+          Lo que ves en un videojuego <span class="hl">casi nunca</span> es lo que hay.
+        </h1>
 
-        <ul class="social-row reveal-line" aria-label="Redes sociales">
-          <li>
-            <a class="social-chip magnetic-link" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noreferrer">
-              <span class="icon-badge icon-badge-youtube" aria-hidden="true">
-                <svg viewBox="0 0 24 24"><path d="M9.6 8.4v7.2l6.3-3.6z" fill="#fff"></path></svg>
-              </span>
-              <span>YouTube</span>
-            </a>
-          </li>
-          <li>
-            <a class="social-chip magnetic-link" href="https://www.instagram.com/centusdev/" target="_blank" rel="noreferrer">
-              <span class="icon-badge icon-badge-instagram" aria-hidden="true">
-                <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="5"></rect><circle cx="12" cy="12" r="3.6"></circle><circle cx="16.3" cy="7.7" r="0.65" fill="#fff" stroke="none"></circle></svg>
-              </span>
-              <span>Instagram</span>
-            </a>
-          </li>
-          <li>
-            <a class="social-chip magnetic-link" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noreferrer">
-              <span class="icon-badge icon-badge-tiktok" aria-hidden="true">
-                <svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M13.7 6v9a3.1 3.1 0 1 1-2.5-3.05" stroke="#25F4EE" stroke-width="1.7"></path><path d="M13.35 5.6c.4 2.15 2.15 3.8 4.3 4.2" stroke="#FE2C55" stroke-width="1.7"></path><path d="M13.7 6.5v8.5a3.1 3.1 0 1 1-2.5-3.05" stroke="#fff" stroke-width="1.1"></path></svg>
-              </span>
-              <span>TikTok</span>
-            </a>
-          </li>
-          <li>
-            <a class="social-chip magnetic-link" href="mailto:centusgamedev@gmail.com">
-              <span class="icon-badge icon-badge-email" aria-hidden="true">
-                <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="6" width="17" height="12" rx="2.2"></rect><path d="M4.5 7 12 12.5 19.5 7"></path></svg>
-              </span>
-              <span>Email</span>
-            </a>
-          </li>
-          <li>
-            <a class="social-chip magnetic-link" href="https://beacons.ai/centusdev" target="_blank" rel="noreferrer">
-              <span class="icon-badge icon-badge-beacons" aria-hidden="true">
-                <svg viewBox="0 0 24 24" fill="none" stroke="#2b170f" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="16.3" r="1.7" fill="#2b170f" stroke="none"></circle><path d="M8.3 12.6a5.6 5.6 0 0 1 7.4 0"></path><path d="M5.4 9.6a9.6 9.6 0 0 1 13.2 0"></path></svg>
-              </span>
-              <span>Beacons (todos mis enlaces)</span>
-            </a>
-          </li>
-        </ul>
+        <p class="hero-lead">
+          Me llamo César, pero en redes soy <strong>Centus Dev</strong>. Hago videojuegos y, en vídeos cortos, te cuento cómo funcionan por dentro los que juegas tú.
+        </p>
+
+        <a class="hook-card" id="hookCard" href="https://www.youtube.com/shorts/GBgDwVcaLh4" target="_blank" rel="noopener">
+          <span class="hook-kicker">Una pregunta, un minuto</span>
+          <span class="hook-text" id="hookText">¿Por qué los coches de tantos videojuegos son, en realidad, esferas?</span>
+          <span class="hook-cta" aria-hidden="true">Ver el vídeo →</span>
+        </a>
+
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#videos">Ver mis vídeos</a>
+          <a class="btn btn-ghost" href="#contacto">Trabajemos juntos</a>
+        </div>
       </div>
 
-      <div class="hero-visual">
-        <div class="hero-portrait">
-          <div class="portrait-blob blob-a" aria-hidden="true"></div>
-          <div class="portrait-blob blob-b" aria-hidden="true"></div>
-          <img class="portrait-image" src="images/FotoDePerfilFINAL_JPG.jpg" alt="Foto de Centus Dev">
-          <div class="floating-tag tag-content" aria-hidden="true">
-            <span>Cada semana</span>
-            <strong>Contenido de Game Dev</strong>
+      <div class="hero-stage" id="xrayStage" data-hitbox="Avatar">
+        <div class="stage-frame">
+          <img class="stage-img" src="images/FotoDePerfilFINAL_JPG.jpg" alt="Ilustración de Centus Dev con gafas de sol en la cabeza y el móvil en la mano" width="560" height="560" fetchpriority="high">
+
+          <div class="xray" aria-hidden="true">
+            <img class="xray-img" src="images/FotoDePerfilFINAL_JPG.jpg" alt="">
+            <svg class="xray-boxes" viewBox="0 0 100 100" preserveAspectRatio="none">
+              <rect x="31" y="5" width="41" height="17" rx="1"></rect>
+              <rect x="26" y="20" width="44" height="42" rx="1"></rect>
+              <rect x="0" y="12" width="36" height="33" rx="1"></rect>
+              <rect x="63" y="40" width="17" height="36" rx="1"></rect>
+              <polygon points="75,46 100,30 100,64"></polygon>
+              <rect x="79" y="77" width="16" height="12" rx="1"></rect>
+              <line x1="50" y1="92" x2="50" y2="78"></line>
+              <line x1="50" y1="92" x2="64" y2="92"></line>
+            </svg>
+            <span class="xray-label" style="left:32%;top:1%">gafas · equipadas</span>
+            <span class="xray-label" style="left:27%;top:62.5%">hitbox · cabeza</span>
+            <span class="xray-label" style="left:1%;top:8%">mano · animación</span>
+            <span class="xray-label" style="left:63%;top:76.5%">móvil · cámara</span>
+            <span class="xray-label" style="left:80%;top:26%">frustum</span>
           </div>
+          <span class="xray-ring" aria-hidden="true"></span>
+        </div>
+
+        <p class="stage-hint" aria-hidden="true"><span class="stage-hint-icon">◎</span> Pasa por encima: rayos X</p>
+
+        <a class="orbit orbit-yt" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noopener" aria-label="YouTube de Centus Dev"><svg aria-hidden="true"><use href="#i-yt"/></svg></a>
+        <a class="orbit orbit-tt" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noopener" aria-label="TikTok de Centus Dev"><svg aria-hidden="true"><use href="#i-tt"/></svg></a>
+        <a class="orbit orbit-ig" href="https://www.instagram.com/centusdev/" target="_blank" rel="noopener" aria-label="Instagram de Centus Dev"><svg aria-hidden="true"><use href="#i-ig"/></svg></a>
+      </div>
+
+      <ul class="proof-row" aria-label="Algunos datos">
+        <li data-hitbox="Stat">
+          <strong class="num" id="statViews">+1,5 M</strong>
+          <span>visualizaciones en YouTube</span>
+        </li>
+        <li data-hitbox="Stat">
+          <strong class="num" id="statTop">562 mil</strong>
+          <span>en un solo short</span>
+        </li>
+        <li data-hitbox="Stat">
+          <strong class="num" id="statFollowers">4,4 mil</strong>
+          <span>seguidores entre TikTok, Instagram y YouTube</span>
+        </li>
+        <li data-hitbox="Stat">
+          <strong class="num">5 juegos</strong>
+          <span>publicados en itch.io</span>
+        </li>
+      </ul>
+    </section>
+
+    <!-- ===== VÍDEOS ===== -->
+    <section class="section videos" id="videos" aria-labelledby="videos-title">
+      <header class="section-head reveal">
+        <p class="tag"><svg aria-hidden="true"><use href="#i-play"/></svg>Contenido</p>
+        <h2 id="videos-title">Un minuto para entender algo que llevas años jugando.</h2>
+        <p class="section-lead">
+          Cada pocos días sale uno nuevo en YouTube, TikTok e Instagram. Parto de algo que has visto mil veces jugando y te explico qué hay detrás, sin que haga falta saber programar.
+        </p>
+      </header>
+
+      <div class="video-rail" id="videoRail" aria-live="polite">
+        <!-- Se rellena desde data/videos.json (actualizado automáticamente por GitHub Actions) -->
+      </div>
+
+      <div class="videos-bottom">
+        <section class="records reveal" aria-labelledby="records-title" data-hitbox="Records">
+          <div class="records-head">
+            <h3 id="records-title" class="records-title">High scores</h3>
+            <span class="records-badge"><svg aria-hidden="true"><use href="#i-yt"/></svg> Shorts</span>
+          </div>
+          <p class="records-sub">Los shorts que más lejos han llegado en YouTube</p>
+          <ol class="records-list" id="recordsList"></ol>
+        </section>
+
+        <div class="platforms reveal" data-hitbox="Redes">
+          <p class="platforms-title">Sígueme donde veas vídeos</p>
+          <a class="platform platform-yt" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noopener">
+            <span class="platform-icon"><svg aria-hidden="true"><use href="#i-yt"/></svg></span>
+            <span class="platform-name">YouTube <small>@CentusDev</small></span>
+            <span class="platform-meta"><b class="num" id="ytFollowers">1,6 mil</b> suscriptores</span>
+          </a>
+          <a class="platform platform-tt" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noopener">
+            <span class="platform-icon"><svg aria-hidden="true"><use href="#i-tt"/></svg></span>
+            <span class="platform-name">TikTok <small>@centusdev</small></span>
+            <span class="platform-meta"><b class="num" id="ttFollowers">1,1 mil</b> seguidores</span>
+          </a>
+          <a class="platform platform-ig" href="https://www.instagram.com/centusdev/" target="_blank" rel="noopener">
+            <span class="platform-icon"><svg aria-hidden="true"><use href="#i-ig"/></svg></span>
+            <span class="platform-name">Instagram <small>@centusdev</small></span>
+            <span class="platform-meta"><b class="num" id="igFollowers">1,8 mil</b> seguidores</span>
+          </a>
         </div>
       </div>
     </section>
 
-    <!-- ===== ABOUT ME ===== -->
-    <section class="about-section section-pad" id="sobre-mi" aria-labelledby="about-title">
-      <div class="section-heading">
-        <p class="section-kicker">Sobre mí</p>
-        <h2 id="about-title">Creo contenido sobre desarrollo de videojuegos y, mientras tanto, también los desarrollo.</h2>
+    <!-- ===== JUEGOS ===== -->
+    <section class="section games" id="juegos" aria-labelledby="games-title">
+      <header class="section-head reveal">
+        <p class="tag"><svg aria-hidden="true"><use href="#i-pad"/></svg>Juegos</p>
+        <h2 id="games-title">No solo hablo de videojuegos. También los hago.</h2>
+        <p class="section-lead">
+          Game jams con el reloj en contra, proyectos de clase y experimentos que acaban convertidos en vídeo. Todos se pueden jugar.
+        </p>
+      </header>
+
+      <article class="game-feature reveal" data-hitbox="Juego destacado">
+        <a class="game-feature-media" href="https://rise-gamedev.itch.io/the-experiment" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+          <img src="images/projects/the-experiment.jpg" alt="" loading="lazy" width="1200" height="675">
+          <span class="game-feature-glitch"></span>
+        </a>
+        <div class="game-feature-body">
+          <p class="game-tags"><span>Jam de 24 horas</span><span>Terror psicológico</span><span>Se juega en el navegador</span></p>
+          <h3>THE EXPERIMENT</h3>
+          <p>
+            Un plataformas de terror en el que cada salto te mete más hondo en un sitio del que no deberías poder salir. Lo hicimos en <strong>24 horas</strong> entre el creador de contenido <strong>Rise</strong> y yo.
+          </p>
+          <a class="btn btn-yellow" href="https://rise-gamedev.itch.io/the-experiment" target="_blank" rel="noopener">Jugar ahora</a>
+        </div>
+      </article>
+
+      <div class="game-grid">
+        <article class="game-card reveal" data-hitbox="Juego">
+          <a class="game-card-media" href="https://centus.itch.io/only-24-hours-more" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+            <img src="images/projects/only24.jpg" alt="" loading="lazy" width="1200" height="674">
+          </a>
+          <p class="game-tags"><span>Game Gen Jam</span><span>Narrativo</span></p>
+          <h3><a href="https://centus.itch.io/only-24-hours-more" target="_blank" rel="noopener">Only 24 Hours More</a></h3>
+          <p>Los muertos pueden pedir 24 horas más de vida para cerrar sus asuntos. Tú decides quién se las merece… y no todos vienen con buenas intenciones.</p>
+          <p class="game-role">Hecho en solitario</p>
+        </article>
+
+        <article class="game-card reveal" data-hitbox="Juego">
+          <a class="game-card-media" href="https://miguelgfi.itch.io/el-mundo-de-las-ideas" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+            <img src="images/projects/el-mundo.jpg" alt="" loading="lazy" width="1200" height="660">
+          </a>
+          <p class="game-tags"><span>Game Jam Internacional</span><span>Puzle 3D</span></p>
+          <h3><a href="https://miguelgfi.itch.io/el-mundo-de-las-ideas" target="_blank" rel="noopener">El Mundo de las Ideas</a></h3>
+          <p>Salta entre el mundo real y el mundo de las ideas para superar cada etapa de la vida. Tema de la jam: «Dos mundos, un desafío».</p>
+          <p class="game-role">En equipo con Miguel, Rubén, Mafer e Irene</p>
+        </article>
+
+        <article class="game-card reveal" data-hitbox="Juego">
+          <a class="game-card-media" href="https://centus.itch.io/galactic-thief" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+            <img src="images/projects/galactic.jpg" alt="" loading="lazy" width="1200" height="956">
+          </a>
+          <p class="game-tags"><span>Proyecto de clase</span><span>Run &amp; gun 2D</span></p>
+          <h3><a href="https://centus.itch.io/galactic-thief" target="_blank" rel="noopener">Galactic Thief</a></h3>
+          <p>Robas el diamante gigante de un museo espacial y toca huir hasta tu nave, esquivando a la policía y aprovechando la gravedad baja.</p>
+          <p class="game-role">Hecho en solitario</p>
+        </article>
+
+        <article class="game-card reveal" data-hitbox="Juego">
+          <a class="game-card-media" href="https://centus.itch.io/all-in" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+            <img src="images/projects/allin.jpg" alt="" loading="lazy" width="1154" height="805">
+          </a>
+          <p class="game-tags"><span>Plata Pez Jam</span><span>Contrarreloj</span></p>
+          <h3><a href="https://centus.itch.io/all-in" target="_blank" rel="noopener">ALL-IN</a></h3>
+          <p>Cae una bomba en un casino de Las Vegas. Todos huyen; tú ves fichas sin vigilar. Tienes 90 segundos antes de que caiga la segunda.</p>
+          <p class="game-role">Hecho en solitario</p>
+        </article>
       </div>
 
-      <div class="about-layout">
-        <div class="about-copy">
-          <p>
-            Soy Centus Dev. Grabo, edito y explico procesos de desarrollo de videojuegos para que se entiendan mejor, sin tecnicismos innecesarios.
-          </p>
-          <p>
-            Me interesa entender cómo funcionan los juegos por dentro: mecánicas, sistemas y las decisiones de diseño detrás de cada experiencia. Por eso, además de crear contenido, estudio Ingeniería Informática y Diseño y Desarrollo de Videojuegos, desarrollo mis propios juegos en Unity y participo en Game Jams siempre que puedo.
-          </p>
-          <p>
-            He trabajado en Virtual Soul, una asociación universitaria dedicada al desarrollo de videojuegos, donde he colaborado organizando eventos, actividades y Game Jams.
-          </p>
+      <div class="experiments reveal">
+        <p class="experiments-title">Y a veces el juego nace en el propio canal:</p>
+        <div class="experiment-row">
+          <button class="experiment" type="button" data-video="5wGSYd80CJI" data-title="He creado un juego de la final del Mundial" data-hitbox="Experimento">
+            <img src="https://i.ytimg.com/vi/5wGSYd80CJI/oardefault.jpg" alt="" loading="lazy" data-fallback="https://i.ytimg.com/vi/5wGSYd80CJI/hqdefault.jpg">
+            <span class="experiment-text">
+              <strong>Un juego de la final del Mundial</strong>
+              <small>Lo desarrollé y lo enseñé en un short</small>
+            </span>
+            <span class="play-badge" aria-hidden="true">▶</span>
+          </button>
+          <button class="experiment" type="button" data-video="vq9pdL2k0dY" data-title="Día 4 haciendo un videojuego con vuestros comentarios" data-hitbox="Experimento">
+            <img src="https://i.ytimg.com/vi/vq9pdL2k0dY/oardefault.jpg" alt="" loading="lazy" data-fallback="https://i.ytimg.com/vi/vq9pdL2k0dY/hqdefault.jpg">
+            <span class="experiment-text">
+              <strong>Un videojuego hecho con vuestros comentarios</strong>
+              <small>Una serie en la que el juego avanza con lo que pedís en los comentarios</small>
+            </span>
+            <span class="play-badge" aria-hidden="true">▶</span>
+          </button>
         </div>
+        <a class="text-link" href="https://centus.itch.io/" target="_blank" rel="noopener">Todos mis juegos en itch.io →</a>
+      </div>
+    </section>
 
-        <ul class="about-tags" aria-label="Identidad resumida">
+    <!-- ===== SOBRE MÍ ===== -->
+    <section class="section about" id="sobre-mi" aria-labelledby="about-title">
+      <div class="about-card reveal" data-hitbox="Personaje">
+        <img src="images/FotoDePerfilFINAL_JPG.jpg" alt="" loading="lazy" width="320" height="320">
+        <p class="about-card-name">Centus Dev</p>
+        <p class="about-card-real">César · Madrid</p>
+        <ul class="about-card-tags">
+          <li>Desarrollador de videojuegos</li>
           <li>Creador de contenido</li>
-          <li>Estudiante</li>
-          <li>Dev indie</li>
+          <li>Social Media en Virtual Soul</li>
+        </ul>
+      </div>
+
+      <div class="about-copy reveal">
+        <p class="tag"><svg aria-hidden="true"><use href="#i-social"/></svg>Quién hay detrás</p>
+        <h2 id="about-title">Primero hice juegos. Luego empecé a contar sus trucos.</h2>
+        <p>
+          Soy <strong>César</strong>, aunque en redes me conocéis como <strong>Centus Dev</strong>. Estudio el <strong>Doble Grado en Diseño y Desarrollo de Videojuegos e Ingeniería de Computadores</strong>, y casi todo lo que hago gira alrededor de lo mismo: <strong>hacer juegos</strong> y <strong>entender cómo funcionan</strong>.
+        </p>
+        <p>
+          Empecé con proyectos de clase y <strong>game jams</strong>, de esas en las que tienes un fin de semana (o 24 horas) para sacar algo jugable. Y cuantos más juegos hacía, más trucos veía en los de los demás: coches que en realidad son esferas, cámaras que no dibujan lo que no están mirando…
+        </p>
+        <p>
+          Así que empecé a contarlos en <strong>vídeos cortos</strong>. Hoy los subo a <strong>YouTube, TikTok e Instagram</strong>, sigo haciendo mis propios juegos y, fuera de cámara, llevo las redes de <strong>Virtual Soul</strong>. Hacer videojuegos incluso me ha llevado <a href="https://www.youtube.com/shorts/V6bE78BVLMo" target="_blank" rel="noopener">hasta Alemania</a>.
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== TRAYECTORIA: partidas guardadas (lo más reciente primero) ===== -->
+    <section class="section journey" id="trayectoria" aria-labelledby="journey-title">
+      <header class="section-head reveal">
+        <p class="tag"><svg aria-hidden="true"><use href="#i-floppy"/></svg>Trayectoria</p>
+        <h2 id="journey-title">Partidas guardadas</h2>
+        <p class="section-lead">De lo último que he hecho a donde empezó todo. Desliza para cargar partidas anteriores.</p>
+      </header>
+
+      <div class="slots-wrap reveal">
+        <ol class="slots" id="slots" tabindex="0" aria-label="Línea temporal, de lo más reciente a lo más antiguo">
+          <li class="slot slot-empty">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Ranura libre</span>
+            </div>
+            <p class="slot-date">Próximamente</p>
+            <h3>Nueva partida</h3>
+            <p>¿El siguiente guardado lo hacemos juntos?</p>
+            <a class="text-link" href="#contacto">Hablemos →</a>
+          </li>
+          <li class="slot" data-hitbox="Slot 09">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 09</span>
+            </div>
+            <p class="slot-date">Ahora</p>
+            <h3>Social Media en Virtual Soul</h3>
+            <p>Mientras sigo publicando vídeos cada pocos días y desarrollando mis propios juegos.</p>
+          </li>
+          <li class="slot" data-hitbox="Slot 08">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 08</span>
+            </div>
+            <p class="slot-date">Colaboraciones</p>
+            <h3>Trabajo con marcas y creadores</h3>
+            <p>Primeras colaboraciones con marcas y un juego hecho junto a otro creador de contenido.</p>
+          </li>
+          <li class="slot" data-hitbox="Slot 07">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 07</span>
+            </div>
+            <p class="slot-date">Agosto 2026</p>
+            <h3>Hacer juegos me lleva a Alemania</h3>
+            <p>Y aprovecho para contar cómo son las universidades de videojuegos de otros países.</p>
+          </li>
+          <li class="slot slot-gold" data-hitbox="Slot 06">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 06</span>
+            </div>
+            <p class="slot-date">Julio 2026</p>
+            <h3>562 mil visualizaciones</h3>
+            <p>«Cómo saben tu posición los juegos de carreras» se convierte en el short más visto del canal hasta ahora.</p>
+          </li>
+          <li class="slot slot-gold" data-hitbox="Slot 05">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 05</span>
+            </div>
+            <p class="slot-date">Abril 2026</p>
+            <h3>349 mil visualizaciones</h3>
+            <p>«¿Tomodachi Life es aleatorio?» se convierte en uno de los shorts más vistos del canal.</p>
+          </li>
+          <li class="slot" data-hitbox="Slot 04">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 04</span>
+            </div>
+            <p class="slot-date">Game Gen Jam</p>
+            <h3>Un juego sobre la muerte… en una jam</h3>
+            <p><em>Only 24 Hours More</em> nace en la Game Gen Jam: narrativa, decisiones y un dilema moral.</p>
+          </li>
+          <li class="slot" data-hitbox="Slot 03">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 03</span>
+            </div>
+            <p class="slot-date">Primeros juegos</p>
+            <h3>Jams y proyectos de clase</h3>
+            <p><em>ALL-IN</em> para la Plata Pez Jam y <em>Galactic Thief</em> como proyecto de la carrera. Los dos, en solitario.</p>
+          </li>
+          <li class="slot" data-hitbox="Slot 02">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 02</span>
+            </div>
+            <p class="slot-date">Diciembre 2025</p>
+            <h3>Empiezo a hacer vídeos</h3>
+            <p>Los primeros vídeos contando cómo funcionan los videojuegos por dentro. En marzo de 2026 abro el canal de YouTube y subo ahí todo lo anterior.</p>
+          </li>
+          <li class="slot" data-hitbox="Slot 01">
+            <div class="slot-head">
+              <span class="floppy" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>
+              <span class="slot-num">Partida 01</span>
+            </div>
+            <p class="slot-date">Junio 2024</p>
+            <h3>Empiezo a hacer videojuegos</h3>
+            <p>Empiezo a aprender y a comprender las bases del desarrollo de videojuegos.</p>
+          </li>
+        </ol>
+
+        <div class="slots-nav">
+          <button type="button" class="slots-btn" data-dir="-1" aria-label="Partida más reciente">←</button>
+          <div class="slots-progress" aria-hidden="true"><span id="slotsBar"></span></div>
+          <button type="button" class="slots-btn" data-dir="1" aria-label="Partida más antigua">→</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== MARCAS ===== -->
+    <section class="section brands" id="marcas" aria-labelledby="brands-title">
+      <header class="section-head reveal">
+        <p class="tag"><svg aria-hidden="true"><use href="#i-handshake"/></svg>Colaboraciones</p>
+        <h2 id="brands-title">Marcas y creadores con los que he trabajado</h2>
+        <p class="section-lead">
+          Contenido con marcas de tecnología y educación, y proyectos junto a otros creadores.
+        </p>
+      </header>
+
+      <div class="logo-wall reveal" data-hitbox="Marcas">
+        <a class="logo-tile" href="https://u-tad.com/" target="_blank" rel="noopener" aria-label="U-tad">
+          <span class="logo-mark logo-utad" aria-hidden="true"></span>
+          <span class="logo-kind">Marca · Educación</span>
+        </a>
+        <a class="logo-tile" href="https://www.tripo3d.ai/" target="_blank" rel="noopener" aria-label="Tripo">
+          <span class="logo-mark logo-tripo" aria-hidden="true"></span>
+          <span class="logo-kind">Marca · IA 3D</span>
+        </a>
+        <a class="logo-tile" href="https://www.instagram.com/rise_dev_/" target="_blank" rel="noopener" aria-label="Rise, creador de contenido">
+          <span class="logo-rise" aria-hidden="true"><span class="logo-mark logo-rise-mark"></span><span class="logo-word">RISE<small>DEV</small></span></span>
+          <span class="logo-kind">Creador · THE EXPERIMENT</span>
+        </a>
+        <a class="logo-tile logo-tile-next" href="#contacto">
+          <span class="logo-next" aria-hidden="true"><svg><use href="#i-plus"/></svg></span>
+          <span class="logo-kind">¿Tu marca?</span>
+        </a>
+      </div>
+
+      <div class="mediakit reveal" data-hitbox="Media kit">
+        <div class="mediakit-copy">
+          <p class="mediakit-kicker">Media kit</p>
+          <h3>Una audiencia joven y curiosa por los videojuegos</h3>
+          <p>En mi media kit tienes audiencia, formatos y resultados actualizados.</p>
+          <a class="btn btn-yellow" href="https://beacons.ai/centusdev/mediakit" target="_blank" rel="noopener">Ver media kit</a>
+        </div>
+        <ul class="mediakit-stats">
+          <li><strong class="num">5,6 %</strong><span>de engagement en Instagram, más que el 90 % de cuentas de tamaño similar</span></li>
+          <li><strong class="num">9,7 mil</strong><span>visualizaciones de media por reel</span></li>
+          <li><strong class="num">80 %</strong><span>de la audiencia tiene entre 18 y 34 años</span></li>
+          <li><strong class="num">ES · MX · AR</strong><span>España, México y Argentina, los países que más me ven</span></li>
+        </ul>
+        <p class="mediakit-source">Datos de Instagram de los últimos 30 días según mi media kit en Beacons (septiembre de 2026).</p>
+      </div>
+    </section>
+
+    <!-- ===== VIRTUAL SOUL ===== -->
+    <section class="section vsoul" id="virtual-soul" aria-labelledby="vsoul-title">
+      <div class="vsoul-card reveal" data-hitbox="Virtual Soul">
+        <a class="vsoul-logo" href="https://virtualsoul.es/" target="_blank" rel="noopener" aria-label="Web de Virtual Soul">
+          <img src="images/brands/virtualsoul.png" alt="Logo de Virtual Soul" loading="lazy" width="819" height="400">
+        </a>
+        <div class="vsoul-copy">
+          <p class="tag tag-small"><svg aria-hidden="true"><use href="#i-calendar"/></svg>Fuera de cámara</p>
+          <h2 id="vsoul-title">También organizo eventos</h2>
+          <p>
+            <strong>Virtual Soul</strong> es una asociación sin ánimo de lucro dedicada a los videojuegos. Su gran cita es la <strong>GameGen</strong>: ponencias, zona de demos, torneos, game jam y concurso de arte. Ahí me encargo de las <strong>redes sociales</strong> y ayudo a <strong>organizar los eventos</strong> y a contarlos antes, durante y después.
+          </p>
+          <p class="vsoul-note">También he estado al otro lado: <em>Only 24 Hours More</em> nació en la Game Gen Jam.</p>
+        </div>
+        <ul class="vsoul-roles" aria-label="Qué hago en Virtual Soul">
+          <li><svg aria-hidden="true"><use href="#i-calendar"/></svg>Organización de eventos</li>
+          <li><svg aria-hidden="true"><use href="#i-megaphone"/></svg>Comunicación</li>
+          <li><svg aria-hidden="true"><use href="#i-social"/></svg>Redes sociales</li>
+          <li><svg aria-hidden="true"><use href="#i-clapper"/></svg>Contenido de los eventos</li>
         </ul>
       </div>
     </section>
 
-    <!-- ===== WHAT I DO ===== -->
-    <section class="focus-section section-pad" id="que-hago" aria-labelledby="focus-title">
-      <div class="section-heading">
-        <p class="section-kicker">Qué hago</p>
-        <h2 id="focus-title">Tres cosas en paralelo, una sola identidad.</h2>
-      </div>
+    <!-- ===== CONTACTO ===== -->
+    <section class="section contact" id="contacto" aria-labelledby="contact-title">
+      <div class="contact-card reveal" data-hitbox="Contacto">
+        <p class="tag tag-dark"><svg aria-hidden="true"><use href="#i-mail"/></svg>Contacto</p>
+        <h2 id="contact-title">¿Hacemos algo juntos?</h2>
+        <p class="contact-lead">Colaboraciones con marcas, proyectos de videojuegos, eventos o una idea que todavía no tiene nombre. Escríbeme y te respondo.</p>
 
-      <div class="focus-grid">
-        <article class="focus-card">
-          <span class="focus-icon" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5.5" width="14" height="13" rx="3"></rect><path d="M16.5 10.2 21 7.5v9l-4.5-2.7"></path></svg>
-          </span>
-          <h3>Creación de contenido</h3>
-          <p>Vídeos y clips sobre desarrollo de videojuegos: procesos reales, aprendizajes y detrás de cámaras.</p>
-        </article>
-        <article class="focus-card">
-          <span class="focus-icon" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="7" width="19" height="11" rx="4"></rect><path d="M8 11v3.2M6.4 12.6h3.2"></path><circle cx="15.4" cy="11.6" r="1"></circle><circle cx="17.8" cy="14" r="1"></circle></svg>
-          </span>
-          <h3>Desarrollo de videojuegos</h3>
-          <p>Prototipo mecánicas y desarrollo mis propios proyectos indie en Unity.</p>
-        </article>
-        <article class="focus-card">
-          <span class="focus-icon" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4 2.5 8.5 12 13l9.5-4.5z"></path><path d="M6 10.6v4.3c0 1.7 2.7 3.1 6 3.1s6-1.4 6-3.1v-4.3"></path></svg>
-          </span>
-          <h3>Estudios y Game Jams</h3>
-          <p>Ingeniería Informática y Diseño y Desarrollo de Videojuegos, combinados con Game Jams siempre que puedo.</p>
-        </article>
-      </div>
-    </section>
+        <div class="contact-routes">
+          <a class="route" href="mailto:centusgamedev@gmail.com?subject=Colaboraci%C3%B3n%20con%20Centus%20Dev">
+            <span class="route-kicker">Soy una marca</span>
+            <strong>Contenido patrocinado</strong>
+            <span>Vídeos que explican algo de verdad, con tu marca dentro.</span>
+          </a>
+          <a class="route" href="mailto:centusgamedev@gmail.com?subject=Proyecto%20con%20Centus%20Dev">
+            <span class="route-kicker">Tengo un proyecto</span>
+            <strong>Juegos, eventos y comunidad</strong>
+            <span>Desarrollo, jams, eventos o comunicación de videojuegos.</span>
+          </a>
+          <a class="route" href="https://beacons.ai/centusdev/mediakit" target="_blank" rel="noopener">
+            <span class="route-kicker">Quiero ver números</span>
+            <strong>Media kit</strong>
+            <span>Audiencia, formatos y resultados en Beacons.</span>
+          </a>
+        </div>
 
-    <!-- ===== CONTENT / SOCIAL ===== -->
-    <section class="content-section section-pad" id="contenido" aria-labelledby="content-title">
-      <div class="section-heading">
-        <p class="section-kicker">Contenido</p>
-        <h2 id="content-title">Todo mi contenido está aquí.</h2>
-        <p class="section-lead">Vídeos, clips y el proceso real de crear videojuegos, cada semana.</p>
-      </div>
-
-      <div class="social-grid">
-        <a class="platform-card magnetic-link" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noreferrer">
-          <span class="icon-badge icon-badge-lg icon-badge-youtube" aria-hidden="true">
-            <svg viewBox="0 0 24 24"><path d="M9.6 8.4v7.2l6.3-3.6z" fill="#fff"></path></svg>
-          </span>
-          <span class="platform-name">YouTube</span>
-          <span class="platform-handle">@CentusDev</span>
-        </a>
-        <a class="platform-card magnetic-link" href="https://www.instagram.com/centusdev/" target="_blank" rel="noreferrer">
-          <span class="icon-badge icon-badge-lg icon-badge-instagram" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="5"></rect><circle cx="12" cy="12" r="3.6"></circle><circle cx="16.3" cy="7.7" r="0.65" fill="#fff" stroke="none"></circle></svg>
-          </span>
-          <span class="platform-name">Instagram</span>
-          <span class="platform-handle">@centusdev</span>
-        </a>
-        <a class="platform-card magnetic-link" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noreferrer">
-          <span class="icon-badge icon-badge-lg icon-badge-tiktok" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M13.7 6v9a3.1 3.1 0 1 1-2.5-3.05" stroke="#25F4EE" stroke-width="1.7"></path><path d="M13.35 5.6c.4 2.15 2.15 3.8 4.3 4.2" stroke="#FE2C55" stroke-width="1.7"></path><path d="M13.7 6.5v8.5a3.1 3.1 0 1 1-2.5-3.05" stroke="#fff" stroke-width="1.1"></path></svg>
-          </span>
-          <span class="platform-name">TikTok</span>
-          <span class="platform-handle">@centusdev</span>
-        </a>
-        <a class="platform-card magnetic-link" href="mailto:centusgamedev@gmail.com">
-          <span class="icon-badge icon-badge-lg icon-badge-email" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="6" width="17" height="12" rx="2.2"></rect><path d="M4.5 7 12 12.5 19.5 7"></path></svg>
-          </span>
-          <span class="platform-name">Email</span>
-          <span class="platform-handle">centusgamedev@gmail.com</span>
-        </a>
-        <a class="platform-card platform-card-accent magnetic-link" href="https://beacons.ai/centusdev" target="_blank" rel="noreferrer">
-          <span class="icon-badge icon-badge-lg icon-badge-beacons" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#2b170f" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="16.3" r="1.7" fill="#2b170f" stroke="none"></circle><path d="M8.3 12.6a5.6 5.6 0 0 1 7.4 0"></path><path d="M5.4 9.6a9.6 9.6 0 0 1 13.2 0"></path></svg>
-          </span>
-          <span class="platform-name">Beacons</span>
-          <span class="platform-handle">Todos mis enlaces</span>
-        </a>
-      </div>
-
-      <div class="mini-card-row">
-        <a class="mini-card magnetic-link" href="https://beacons.ai/centusdev/mediakit" target="_blank" rel="noreferrer">
-          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"></rect><path d="M8 13v4M12 9v8M16 11v6"></path></svg>
-          <div>
-            <span class="mini-card-kicker">Para marcas</span>
-            <h3>Media Kit</h3>
-            <p>Audiencia, formatos y propuestas de colaboración en Beacons.</p>
-          </div>
-        </a>
-        <a class="mini-card mini-card-dark magnetic-link" href="mailto:centusgamedev@gmail.com" id="contacto">
-          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5" width="19" height="14" rx="2.5"></rect><path d="M3.5 6.5 12 13l8.5-6.5"></path></svg>
-          <div>
-            <span class="mini-card-kicker">¿Trabajamos juntos?</span>
-            <h3>Colaboraciones y proyectos</h3>
-            <p>Escríbeme para eventos, contenido o ideas conjuntas.</p>
-          </div>
-        </a>
-      </div>
-    </section>
-
-    <!-- ===== PROJECT ===== -->
-    <section class="project-section section-pad" id="proyecto" aria-labelledby="project-title">
-      <div class="section-heading">
-        <p class="section-kicker">Proyecto</p>
-        <h2 id="project-title">Mis proyectos indie.</h2>
-      </div>
-
-      <div class="project-grid">
-        <article class="feature-project">
-          <div class="feature-project-art" aria-hidden="true">
-            <span>Indie</span>
-          </div>
-          <div class="feature-project-content">
-            <p class="feature-project-label">En desarrollo · Unity</p>
-            <h3>El próximo proyecto indie</h3>
-            <p>Un espacio preparado para mostrar concepto, prototipos, capturas, demo y todo el proceso de crear un juego con identidad propia.</p>
-            <a class="text-link magnetic-link" href="#contacto">Preguntar por el proyecto</a>
-          </div>
-        </article>
-
-        <article class="feature-project-soon">
-          <p class="feature-project-label">Muy pronto</p>
-          <h3>Nuevo proyecto indie</h3>
-          <p>Aquí aparecerá el próximo prototipo o juego en el que esté trabajando.</p>
-        </article>
+        <div class="mail-row">
+          <a class="mail-link" href="mailto:centusgamedev@gmail.com">centusgamedev@gmail.com</a>
+          <button class="copy-btn" type="button" data-copy="centusgamedev@gmail.com">Copiar</button>
+        </div>
       </div>
     </section>
   </main>
 
-  <!-- ===== FOOTER ===== -->
+  <!-- ===== PIE ===== -->
   <footer class="site-footer">
-    <p>Centus Dev · Creador de contenido y Game Developer.</p>
-    <ul class="footer-social" aria-label="Redes sociales">
-      <li><a class="magnetic-link" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noreferrer">YouTube</a></li>
-      <li><a class="magnetic-link" href="https://www.instagram.com/centusdev/" target="_blank" rel="noreferrer">Instagram</a></li>
-      <li><a class="magnetic-link" href="https://www.tiktok.com/@centusdev" target="_blank" rel="noreferrer">TikTok</a></li>
-      <li><a class="magnetic-link" href="mailto:centusgamedev@gmail.com">Email</a></li>
-      <li><a class="magnetic-link" href="https://beacons.ai/centusdev" target="_blank" rel="noreferrer">Beacons</a></li>
+    <div class="footer-left">
+      <p class="footer-save"><span class="footer-save-icon" aria-hidden="true"><svg><use href="#i-floppy"/></svg></span>Partida guardada correctamente</p>
+      <p class="footer-copy">© <span id="year">2026</span> Centus Dev · Madrid</p>
+    </div>
+
+    <button class="secret-car" type="button" id="secretCar" aria-label="Minijuego secreto: ¿una carrera de 20 segundos?">
+      <svg viewBox="0 0 64 36" aria-hidden="true">
+        <rect x="6" y="10" width="52" height="18" rx="7" class="car-body"></rect>
+        <path d="M18 10l5-7h18l5 7" class="car-roof"></path>
+        <circle cx="18" cy="28" r="5" class="car-wheel"></circle>
+        <circle cx="46" cy="28" r="5" class="car-wheel"></circle>
+      </svg>
+      <span class="secret-car-tip">psst… ¿20 segundos?</span>
+    </button>
+
+    <ul class="footer-social" aria-label="Sígueme">
+      <li><a href="https://www.youtube.com/@CentusDev" target="_blank" rel="noopener" aria-label="YouTube"><svg aria-hidden="true"><use href="#i-yt"/></svg></a></li>
+      <li><a href="https://www.tiktok.com/@centusdev" target="_blank" rel="noopener" aria-label="TikTok"><svg aria-hidden="true"><use href="#i-tt"/></svg></a></li>
+      <li><a href="https://www.instagram.com/centusdev/" target="_blank" rel="noopener" aria-label="Instagram"><svg aria-hidden="true"><use href="#i-ig"/></svg></a></li>
+      <li><a href="https://centus.itch.io/" target="_blank" rel="noopener" aria-label="itch.io"><svg aria-hidden="true"><use href="#i-itch"/></svg></a></li>
+      <li><a href="https://beacons.ai/centusdev" target="_blank" rel="noopener" aria-label="Beacons: todos mis enlaces"><svg aria-hidden="true"><use href="#i-link"/></svg></a></li>
+      <li><a href="mailto:centusgamedev@gmail.com" aria-label="Email"><svg aria-hidden="true"><use href="#i-mail"/></svg></a></li>
     </ul>
-    <a class="magnetic-link" href="#inicio">Volver arriba</a>
   </footer>
 
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js"></script>
-  <script src="personal-site.js?v=9" defer></script>
+  <!-- ===== MODAL DE VÍDEO ===== -->
+  <dialog class="modal video-modal" id="videoModal" aria-label="Reproductor de vídeo">
+    <div class="video-modal-inner">
+      <button class="modal-close" type="button" data-close aria-label="Cerrar">✕</button>
+      <div class="video-frame" id="videoFrame"></div>
+      <a class="video-modal-link" id="videoModalLink" href="https://www.youtube.com/@CentusDev" target="_blank" rel="noopener">Ver en YouTube →</a>
+    </div>
+  </dialog>
+
+  <!-- ===== MINIJUEGO ===== -->
+  <dialog class="modal game-modal" id="gameModal" aria-label="Minijuego: los coches son esferas">
+    <div class="game-modal-inner">
+      <button class="modal-close" type="button" data-close aria-label="Cerrar">✕</button>
+      <canvas id="gameCanvas" width="720" height="440" aria-label="Minijuego de conducción"></canvas>
+      <div class="game-touch" aria-hidden="true">
+        <button type="button" data-steer="-1">◀</button>
+        <button type="button" data-steer="1">▶</button>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- ===== HUD DEL MODO DEBUG ===== -->
+  <div class="debug-hud" aria-hidden="true">
+    <span id="debugFps">60 fps</span>
+    <span id="debugPos">x 0 · y 0</span>
+    <span>colliders visibles</span>
+  </div>
+
+  <script src="personal-site.js?v=19" defer></script>
 </body>
 </html>

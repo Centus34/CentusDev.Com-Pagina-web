@@ -1,0 +1,427 @@
+{
+  "updatedAt": "2026-09-26T10:30:34.705Z",
+  "channel": {
+    "handle": "@CentusDev",
+    "id": "UCvpACFi3Lidlauv1GoH4f8w",
+    "totalViews": 1540061,
+    "subscribersText": "1,59 K"
+  },
+  "socials": {
+    "tiktok": {
+      "followers": 1058,
+      "checkedAt": "2026-09-26T10:30:34.115Z"
+    },
+    "instagram": {
+      "followers": 1772,
+      "checkedAt": "2026-09-26T10:30:34.705Z"
+    }
+  },
+  "latest": [
+    {
+      "id": "vhIYaLjqqa4",
+      "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
+      "published": "2026-09-15T11:45:53+00:00",
+      "views": 20324,
+      "description": "¿Que os parece el GTA 6? 🚗",
+      "exact": true
+    },
+    {
+      "id": "-XdnIwE7FO4",
+      "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
+      "published": "2026-09-12T16:06:24+00:00",
+      "views": 21550,
+      "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
+      "exact": true
+    },
+    {
+      "id": "_7Wrmim4T28",
+      "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
+      "published": "2026-09-09T11:56:44+00:00",
+      "views": 21589,
+      "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
+      "exact": true
+    },
+    {
+      "id": "M4yzi5K2rMM",
+      "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
+      "published": "2026-09-02T14:52:08+00:00",
+      "views": 6524,
+      "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦",
+      "exact": true
+    },
+    {
+      "id": "aXBwQrR-WAM",
+      "title": "¿COMO SE SABE CUANDO HAS HECHO UN COMBO?",
+      "published": "2026-08-28T17:13:19+00:00",
+      "views": 5696,
+      "description": "¿Sabéis qué más usos tiene el input buffer? 🧐",
+      "exact": true
+    },
+    {
+      "id": "SneNTNXegdU",
+      "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
+      "published": "2026-08-24T16:40:38+00:00",
+      "views": 46208,
+      "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭",
+      "exact": true
+    },
+    {
+      "id": "GBgDwVcaLh4",
+      "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
+      "published": "2026-08-21T15:08:59+00:00",
+      "views": 28727,
+      "description": "¿Sabíais que eran en verdad esferas? 🔴",
+      "exact": true
+    },
+    {
+      "id": "ydSJJxax8II",
+      "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
+      "published": "2026-08-19T11:49:46+00:00",
+      "views": 49525,
+      "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢",
+      "exact": true
+    }
+  ],
+  "top": [
+    {
+      "id": "Jm5UDzh4qYg",
+      "title": "COMO SABEN TU POSICIÓN LOS JUEGOS DE CARRERAS",
+      "views": 562000
+    },
+    {
+      "id": "uiSyshrIEpM",
+      "title": "¿TOMODACHI LIFE ES ALEATORIO?",
+      "views": 349000
+    },
+    {
+      "id": "ydSJJxax8II",
+      "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
+      "views": 49525
+    },
+    {
+      "id": "SneNTNXegdU",
+      "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
+      "views": 46208
+    }
+  ],
+  "archive": {
+    "vhIYaLjqqa4": {
+      "id": "vhIYaLjqqa4",
+      "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
+      "views": 20324,
+      "exact": true,
+      "published": "2026-09-15T11:45:53+00:00",
+      "description": "¿Que os parece el GTA 6? 🚗"
+    },
+    "-XdnIwE7FO4": {
+      "id": "-XdnIwE7FO4",
+      "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
+      "views": 21550,
+      "exact": true,
+      "published": "2026-09-12T16:06:24+00:00",
+      "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
+    },
+    "_7Wrmim4T28": {
+      "id": "_7Wrmim4T28",
+      "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
+      "views": 21589,
+      "exact": true,
+      "published": "2026-09-09T11:56:44+00:00",
+      "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
+    },
+    "M4yzi5K2rMM": {
+      "id": "M4yzi5K2rMM",
+      "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
+      "views": 6524,
+      "exact": true,
+      "published": "2026-09-02T14:52:08+00:00",
+      "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦"
+    },
+    "aXBwQrR-WAM": {
+      "id": "aXBwQrR-WAM",
+      "title": "¿COMO SE SABE CUANDO HAS HECHO UN COMBO?",
+      "views": 5696,
+      "exact": true,
+      "published": "2026-08-28T17:13:19+00:00",
+      "description": "¿Sabéis qué más usos tiene el input buffer? 🧐"
+    },
+    "SneNTNXegdU": {
+      "id": "SneNTNXegdU",
+      "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
+      "views": 46208,
+      "exact": true,
+      "published": "2026-08-24T16:40:38+00:00",
+      "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
+    },
+    "GBgDwVcaLh4": {
+      "id": "GBgDwVcaLh4",
+      "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
+      "views": 28727,
+      "exact": true,
+      "published": "2026-08-21T15:08:59+00:00",
+      "description": "¿Sabíais que eran en verdad esferas? 🔴"
+    },
+    "ydSJJxax8II": {
+      "id": "ydSJJxax8II",
+      "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
+      "views": 49525,
+      "exact": true,
+      "published": "2026-08-19T11:49:46+00:00",
+      "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢"
+    },
+    "94Z3rKSpMsg": {
+      "id": "94Z3rKSpMsg",
+      "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
+      "views": 92,
+      "exact": true,
+      "published": "2026-08-10T15:13:11+00:00",
+      "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
+    },
+    "tqL19KOw_BQ": {
+      "id": "tqL19KOw_BQ",
+      "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
+      "views": 121,
+      "exact": true,
+      "published": "2026-08-07T22:53:02+00:00",
+      "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
+    },
+    "V6bE78BVLMo": {
+      "id": "V6bE78BVLMo",
+      "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
+      "views": 51,
+      "exact": true,
+      "published": "2026-08-03T22:05:38+00:00",
+      "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
+    },
+    "SCx3R_2nos0": {
+      "id": "SCx3R_2nos0",
+      "title": "LOS MINIMAPAS EN VIDEOJUEGOS NO SON COMO PENSÁIS",
+      "views": 11801,
+      "exact": true,
+      "published": "2026-07-30T16:43:06+00:00",
+      "description": "LOS MINIMAPAS NO FUNCIONAN COMO CREÉIS 🗺️"
+    },
+    "lUEYK3jJtSA": {
+      "id": "lUEYK3jJtSA",
+      "title": "COMO LOS ALDEANOS DEL MINECRAFT VUELVEN A SUS CASA 🏠",
+      "views": 21873,
+      "exact": true,
+      "published": "2026-07-28T12:50:07+00:00",
+      "description": "CERRAD LA PUERTA DE VUESTRA CASA 🏠 "
+    },
+    "cfkiLt257Jg": {
+      "id": "cfkiLt257Jg",
+      "title": "EL GUARDADO DE PARTIDA EN VIDEOJUEGOS 💾",
+      "views": 20254,
+      "exact": true,
+      "published": "2026-07-25T12:52:28+00:00",
+      "description": "EL GUARDADO DE PARTIDA EN VIDEOJUEGOS 💾"
+    },
+    "5wGSYd80CJI": {
+      "id": "5wGSYd80CJI",
+      "title": "HE CREADO UN JUEGO DE LA FINAL DEL MUNDIAL 🇪🇸🇦🇷",
+      "views": 9461,
+      "exact": true,
+      "published": "2026-07-22T17:11:35+00:00",
+      "description": "¿Os gusta el juego? ⭐️⭐️"
+    },
+    "9iECpYxsLXk": {
+      "id": "9iECpYxsLXk",
+      "title": "COMO HACEN PARKOUR EN JUEGOS COMO ASSASSINS CREED",
+      "views": 38000,
+      "exact": false
+    },
+    "gwMYxKEZL2k": {
+      "id": "gwMYxKEZL2k",
+      "title": "🧩¿COMO SE GENERAN MUNDOS ALEATORIOS EN VIDEOJUEGOS? 🧩",
+      "views": 9900,
+      "exact": false
+    },
+    "TOYNJHrE5hI": {
+      "id": "TOYNJHrE5hI",
+      "title": "🎮 COMO FUNCIONAN LOS HACKS EN VIDEOJUEGOS 🎮",
+      "views": 9400,
+      "exact": false
+    },
+    "-KWaMM6R5FQ": {
+      "id": "-KWaMM6R5FQ",
+      "title": "🎮 PANTALLAS DE CARGA OCULTAS EN VIDEOJUEGOS 🎮",
+      "views": 24000,
+      "exact": false
+    },
+    "KxCypnCBWJo": {
+      "id": "KxCypnCBWJo",
+      "title": "🔫 LOS SHOOTER TE ENGAÑAN 🔫",
+      "views": 21000,
+      "exact": false
+    },
+    "tJ7SHSYt9Q0": {
+      "id": "tJ7SHSYt9Q0",
+      "title": "🔈 ¿COMO SABES DE DONDE TE VIENEN LAS BALAS EN SHOOTERS? 🔈",
+      "views": 13000,
+      "exact": false
+    },
+    "Jm5UDzh4qYg": {
+      "id": "Jm5UDzh4qYg",
+      "title": "COMO SABEN TU POSICIÓN LOS JUEGOS DE CARRERAS",
+      "views": 562000,
+      "exact": false
+    },
+    "2Ir1BYLsqFg": {
+      "id": "2Ir1BYLsqFg",
+      "title": "🎨 COMO HACE MECCHACHAMELEON PARA PINTAR TU PERSONAJE 🎨",
+      "views": 24000,
+      "exact": false
+    },
+    "9U1ieoJucFo": {
+      "id": "9U1ieoJucFo",
+      "title": "¿TE VA A TIRONES LOS VIDEOJUEGOS?",
+      "views": 16000,
+      "exact": false
+    },
+    "dH0ur4Le1pE": {
+      "id": "dH0ur4Le1pE",
+      "title": "MI GANCHO ANTES VS DESPUÉS",
+      "views": 4500,
+      "exact": false
+    },
+    "UD02lGAWtZo": {
+      "id": "UD02lGAWtZo",
+      "title": "🌳 NECESITAS ESTÁ OPTIMIZACIÓN PARA TU VIDEOJUEGO 🌳",
+      "views": 8400,
+      "exact": false
+    },
+    "hBbzJHANDOE": {
+      "id": "hBbzJHANDOE",
+      "title": "🌳 ¿DESAPARECEN COSAS EN TUS VIDEOJUEGOS? 🌳",
+      "views": 3400,
+      "exact": false
+    },
+    "XlkfYbP8f8M": {
+      "id": "XlkfYbP8f8M",
+      "title": "🪐EL SISTEMA DE GRAVEDAD DE OUTER WILDS Y MARIO GALAXY🪐",
+      "views": 3900,
+      "exact": false
+    },
+    "JkB2BNfVncI": {
+      "id": "JkB2BNfVncI",
+      "title": "🏓 LOS REMAKES SON DIFÍCILES DE HACER 🏓",
+      "views": 17000,
+      "exact": false
+    },
+    "vBmlvAXfAC4": {
+      "id": "vBmlvAXfAC4",
+      "title": "LEGO BATMAN HA CAMBIADO POR FIN...",
+      "views": 2200,
+      "exact": false
+    },
+    "gk2WI8KWqSo": {
+      "id": "gk2WI8KWqSo",
+      "title": "💡MELENITAS DEV ME RETA A RECREAR LAS LUCES DE AMONG US 💡",
+      "views": 2600,
+      "exact": false
+    },
+    "B3v2n6Hmmf4": {
+      "id": "B3v2n6Hmmf4",
+      "title": "‼️ UNREAL ENGINE 6 ES REAL ‼️",
+      "views": 4000,
+      "exact": false
+    },
+    "pMOxsOwffCk": {
+      "id": "pMOxsOwffCk",
+      "title": "⏱️ FORZA HORIZON 6 CARGA EN SOLO 4 SEGUNDOS ⏱️",
+      "views": 216,
+      "exact": false
+    },
+    "n8868mp5FJc": {
+      "id": "n8868mp5FJc",
+      "title": "🤿 LUCES VOLUMÉTRICAS EN SUBNAUTICA 🤿",
+      "views": 9000,
+      "exact": false
+    },
+    "Qu4aiPouAW4": {
+      "id": "Qu4aiPouAW4",
+      "title": "ESTE EFECTO DE VIDEOJUEGOS ES SOLO UN TRUCO",
+      "views": 23000,
+      "exact": false
+    },
+    "uiSyshrIEpM": {
+      "id": "uiSyshrIEpM",
+      "title": "¿TOMODACHI LIFE ES ALEATORIO?",
+      "views": 349000,
+      "exact": false
+    },
+    "nQNTxAY7Wrs": {
+      "id": "nQNTxAY7Wrs",
+      "title": "📸 LOS VIDEOJUEGOS NO MUESTRAN TODO REALMENTE 📸",
+      "views": 19000,
+      "exact": false
+    },
+    "7Ec57NmbqwE": {
+      "id": "7Ec57NmbqwE",
+      "title": "💻 ¡NO PONGAS ESTO EN EL UPDATE DE TU VIDEOJUEGO! 💻",
+      "views": 14000,
+      "exact": false
+    },
+    "QMgCYqKySIw": {
+      "id": "QMgCYqKySIw",
+      "title": "💬 DIA 5 HACIENDO UN VIDEOJUEGO CON VUESTROS COMENTARIOS 💬",
+      "views": 19000,
+      "exact": false
+    },
+    "Y8oIMg7Aqyk": {
+      "id": "Y8oIMg7Aqyk",
+      "title": "🪞 LOS ESPEJOS EN LOS VIDEOJUEGOS TE MIENTEN 🪞",
+      "views": 29000,
+      "exact": false
+    },
+    "Vlxir8Bb0hs": {
+      "id": "Vlxir8Bb0hs",
+      "title": "¿PUEDES ABURRIRTE CON VIDEOJUEGOS DEMASIADO TRANQUILOS?",
+      "views": 1600,
+      "exact": false
+    },
+    "p74_Atl-dcU": {
+      "id": "p74_Atl-dcU",
+      "title": "El chiste fue legendario...",
+      "views": 1400,
+      "exact": false
+    },
+    "GHx6mb6VKkg": {
+      "id": "GHx6mb6VKkg",
+      "title": "MEJORES HERRAMIENTAS PARA HACER VIDEOJUEGOS",
+      "views": 732,
+      "exact": false
+    },
+    "vq9pdL2k0dY": {
+      "id": "vq9pdL2k0dY",
+      "title": "💬 DÍA 4 HACIENDO UN VIDEOJUEGO CON VUESTROS COMENTARIOS 💬",
+      "views": 15000,
+      "exact": false
+    },
+    "TXhLjtFIihU": {
+      "id": "TXhLjtFIihU",
+      "title": "💥COMO FUNCIONAN LOS SHOOTERS 💥",
+      "views": 1300,
+      "exact": false
+    },
+    "KWrnu2zJSOg": {
+      "id": "KWrnu2zJSOg",
+      "title": "🤖 LA MEJOR IA DE LOS VIDEOJUEGOS 🤖",
+      "views": 1300,
+      "exact": false
+    },
+    "unY7M1eoDoY": {
+      "id": "unY7M1eoDoY",
+      "title": "⌛UNITY VS UNREAL ENGINE EN 24 HORAS ⌛",
+      "views": 1100,
+      "exact": false
+    },
+    "nC9hyFPPXlk": {
+      "id": "nC9hyFPPXlk",
+      "title": "¿ES NECESARIO JAVA PARA JUGAR MINECRAFT?",
+      "views": 1900,
+      "exact": false
+    }
+  }
+}
