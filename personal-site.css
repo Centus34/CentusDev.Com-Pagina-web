@@ -1732,6 +1732,8 @@ h3 {
   text-decoration: none;
   box-shadow: var(--shadow-sm);
   transition: transform 0.3s var(--ease-spring), background-color 0.25s, color 0.25s;
+  /* Los logos se dimensionan según el ancho de su ficha (cqi) */
+  container-type: inline-size;
 }
 
 .logo-tile:hover {
@@ -1751,23 +1753,38 @@ h3 {
   mask: var(--logo) center / contain no-repeat;
 }
 
-.logo-utad { --logo: url("images/brands/utad.svg"); }
-.logo-tripo { --logo: url("images/brands/tripo.png"); height: 44px; }
+.logo-utad {
+  --logo: url("images/brands/utad.svg");
+  width: 88%;
+  max-width: 240px;
+  height: auto;
+  aspect-ratio: 199 / 32;
+}
+.logo-tripo {
+  --logo: url("images/brands/tripo.png");
+  width: 78%;
+  max-width: 200px;
+  height: auto;
+  aspect-ratio: 806 / 196;
+}
 
 .logo-rise {
   display: flex;
   align-items: center;
-  gap: 12px;
+  justify-content: center;
+  gap: 5cqi;
+  max-width: 100%;
 }
 
 .logo-rise-mark {
   --logo: url("images/brands/rise.png");
-  width: 46px;
-  height: 46px;
+  flex: none;
+  width: min(46px, 20cqi);
+  height: min(46px, 20cqi);
 }
 
 .logo-rise .logo-word {
-  font-size: 34px;
+  font-size: min(34px, 15cqi);
 }
 
 .logo-word {
@@ -1787,6 +1804,7 @@ h3 {
 }
 
 .logo-kind {
+  text-align: center;
   font-size: 13px;
   font-weight: 600;
   color: var(--muted);
@@ -2668,10 +2686,6 @@ h3 {
   .logo-tile {
     min-height: 140px;
     padding: 20px 12px 14px;
-  }
-
-  .logo-word {
-    font-size: 32px;
   }
 
   .mediakit-stats {
