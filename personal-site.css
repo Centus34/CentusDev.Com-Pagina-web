@@ -2462,14 +2462,19 @@ h3 {
   bottom: 14px;
   z-index: 60;
   display: none;
-  gap: 10px;
-  padding: 6px 10px;
-  border-radius: 8px;
-  background: rgba(5, 46, 18, 0.9);
-  color: #86efac;
+  gap: 6px;
   font-family: var(--font-mono);
   font-size: 11px;
   pointer-events: none;
+}
+
+/* Cada dato en su propia píldora */
+.debug-hud span {
+  padding: 5px 9px;
+  border-radius: 7px;
+  background: rgba(5, 46, 18, 0.9);
+  color: #86efac;
+  font-variant-numeric: tabular-nums;
 }
 
 .is-debug .debug-hud {
@@ -2489,7 +2494,8 @@ h3 {
   outline-offset: 3px;
 }
 
-.is-debug [data-hitbox]::after {
+/* Los vídeos usan su ::after para el degradado: su etiqueta va en la hitbox propia */
+.is-debug [data-hitbox]:not(.video-card)::after {
   content: "▣ " attr(data-hitbox);
   position: absolute;
   top: -12px;
@@ -2514,7 +2520,9 @@ h3 {
 }
 
 .is-debug .video-card-hitbox::before {
+  content: "BoxCollider " attr(data-size);
   background: var(--debug);
+  color: #052e12;
 }
 
 .is-debug .xray-ring {

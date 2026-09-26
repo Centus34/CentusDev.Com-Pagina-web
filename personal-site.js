@@ -522,6 +522,13 @@ function setupDebug() {
   const toggle = $(".debug-toggle");
   const fps = $("#debugFps");
   const pos = $("#debugPos");
+  const colliders = $("#debugColliders");
+
+  // Cuenta las hitboxes que están ahora mismo dentro de la pantalla
+  const countColliders = () => $$("[data-hitbox]").filter((element) => {
+    const rect = element.getBoundingClientRect();
+    return rect.bottom > 0 && rect.top < window.innerHeight && rect.width > 0;
+  }).length;
   let raf = 0;
   let frames = 0;
   let last = performance.now();
@@ -530,6 +537,8 @@ function setupDebug() {
     frames += 1;
     if (now - last > 500) {
       fps.textContent = `${Math.round((frames * 1000) / (now - last))} fps`;
+      const count = countColliders();
+      colliders.textContent = `${count} ${count === 1 ? "collider" : "colliders"} en pantalla`;
       frames = 0;
       last = now;
     }
