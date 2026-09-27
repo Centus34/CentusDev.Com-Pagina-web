@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T21:09:37.262Z",
+  "updatedAt": "2026-09-27T05:17:41.361Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,7 +9,7 @@
   "socials": {
     "tiktok": {
       "followers": 1058,
-      "checkedAt": "2026-09-26T21:09:37.044Z"
+      "checkedAt": "2026-09-27T05:17:41.134Z"
     },
     "instagram": {
       "followers": 1772,
@@ -188,8 +188,8 @@
     "V6bE78BVLMo": {
       "id": "V6bE78BVLMo",
       "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
-      "views": 51,
-      "exact": true,
+      "views": 53,
+      "exact": false,
       "published": "2026-08-03T22:05:38+00:00",
       "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
     },
