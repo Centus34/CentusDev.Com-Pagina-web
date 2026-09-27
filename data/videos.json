@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T12:01:00.681Z",
+  "updatedAt": "2026-09-27T16:57:15.350Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,7 +9,7 @@
   "socials": {
     "tiktok": {
       "followers": 1058,
-      "checkedAt": "2026-09-27T12:01:00.493Z"
+      "checkedAt": "2026-09-27T16:57:14.961Z"
     },
     "instagram": {
       "followers": 1772,
@@ -21,7 +21,7 @@
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
       "published": "2026-09-15T11:45:53+00:00",
-      "views": 20325,
+      "views": 20328,
       "description": "¿Que os parece el GTA 6? 🚗",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "M4yzi5K2rMM",
       "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
       "published": "2026-09-02T14:52:08+00:00",
-      "views": 6524,
+      "views": 6525,
       "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦",
       "exact": true
     },
@@ -108,7 +108,7 @@
     "vhIYaLjqqa4": {
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
-      "views": 20325,
+      "views": 20328,
       "exact": true,
       "published": "2026-09-15T11:45:53+00:00",
       "description": "¿Que os parece el GTA 6? 🚗"
@@ -132,7 +132,7 @@
     "M4yzi5K2rMM": {
       "id": "M4yzi5K2rMM",
       "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
-      "views": 6524,
+      "views": 6525,
       "exact": true,
       "published": "2026-09-02T14:52:08+00:00",
       "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦"
