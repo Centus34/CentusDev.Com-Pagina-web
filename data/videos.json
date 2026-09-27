@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-27T05:17:41.361Z",
+  "updatedAt": "2026-09-27T12:01:00.681Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1540121,
+    "totalViews": 1540145,
     "subscribersText": "1,59 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1058,
-      "checkedAt": "2026-09-27T05:17:41.134Z"
+      "checkedAt": "2026-09-27T12:01:00.493Z"
     },
     "instagram": {
       "followers": 1772,
@@ -29,7 +29,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21550,
+      "views": 21554,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21590,
+      "views": 21611,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
       "published": "2026-08-24T16:40:38+00:00",
-      "views": 46209,
+      "views": 46210,
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭",
       "exact": true
     },
@@ -101,7 +101,7 @@
     {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46209
+      "views": 46210
     }
   ],
   "archive": {
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21550,
+      "views": 21554,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21590,
+      "views": 21611,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -148,7 +148,7 @@
     "SneNTNXegdU": {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46209,
+      "views": 46210,
       "exact": true,
       "published": "2026-08-24T16:40:38+00:00",
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
@@ -189,7 +189,7 @@
       "id": "V6bE78BVLMo",
       "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
       "views": 53,
-      "exact": false,
+      "exact": true,
       "published": "2026-08-03T22:05:38+00:00",
       "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
     },
@@ -204,7 +204,7 @@
     "lUEYK3jJtSA": {
       "id": "lUEYK3jJtSA",
       "title": "COMO LOS ALDEANOS DEL MINECRAFT VUELVEN A SUS CASA 🏠",
-      "views": 21873,
+      "views": 21874,
       "exact": true,
       "published": "2026-07-28T12:50:07+00:00",
       "description": "CERRAD LA PUERTA DE VUESTRA CASA 🏠 "
@@ -390,7 +390,7 @@
     "GHx6mb6VKkg": {
       "id": "GHx6mb6VKkg",
       "title": "MEJORES HERRAMIENTAS PARA HACER VIDEOJUEGOS",
-      "views": 732,
+      "views": 733,
       "exact": false
     },
     "vq9pdL2k0dY": {
