@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:22:22.225Z",
+  "updatedAt": "2026-09-28T13:52:32.219Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,7 +9,7 @@
   "socials": {
     "tiktok": {
       "followers": 1057,
-      "checkedAt": "2026-09-28T05:22:21.920Z"
+      "checkedAt": "2026-09-28T13:52:31.753Z"
     },
     "instagram": {
       "followers": 1772,
@@ -29,7 +29,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21557,
+      "views": 21558,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21612,
+      "views": 21639,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
       "published": "2026-08-19T11:49:46+00:00",
-      "views": 49525,
+      "views": 49526,
       "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢",
       "exact": true
     }
@@ -96,7 +96,7 @@
     {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49525
+      "views": 49526
     },
     {
       "id": "SneNTNXegdU",
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21557,
+      "views": 21558,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21612,
+      "views": 21639,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -164,7 +164,7 @@
     "ydSJJxax8II": {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49525,
+      "views": 49526,
       "exact": true,
       "published": "2026-08-19T11:49:46+00:00",
       "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢"
@@ -204,7 +204,7 @@
     "lUEYK3jJtSA": {
       "id": "lUEYK3jJtSA",
       "title": "COMO LOS ALDEANOS DEL MINECRAFT VUELVEN A SUS CASA 🏠",
-      "views": 21874,
+      "views": 21876,
       "exact": true,
       "published": "2026-07-28T12:50:07+00:00",
       "description": "CERRAD LA PUERTA DE VUESTRA CASA 🏠 "
@@ -212,7 +212,7 @@
     "cfkiLt257Jg": {
       "id": "cfkiLt257Jg",
       "title": "EL GUARDADO DE PARTIDA EN VIDEOJUEGOS 💾",
-      "views": 20254,
+      "views": 20257,
       "exact": true,
       "published": "2026-07-25T12:52:28+00:00",
       "description": "EL GUARDADO DE PARTIDA EN VIDEOJUEGOS 💾"
