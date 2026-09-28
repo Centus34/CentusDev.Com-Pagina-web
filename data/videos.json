@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:52:32.219Z",
+  "updatedAt": "2026-09-28T23:15:35.205Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,7 +9,7 @@
   "socials": {
     "tiktok": {
       "followers": 1057,
-      "checkedAt": "2026-09-28T13:52:31.753Z"
+      "checkedAt": "2026-09-28T23:15:34.803Z"
     },
     "instagram": {
       "followers": 1772,
@@ -29,7 +29,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21558,
+      "views": 21559,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21639,
+      "views": 21644,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
       "exact": true
     },
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21558,
+      "views": 21559,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21639,
+      "views": 21644,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -220,7 +220,7 @@
     "5wGSYd80CJI": {
       "id": "5wGSYd80CJI",
       "title": "HE CREADO UN JUEGO DE LA FINAL DEL MUNDIAL 🇪🇸🇦🇷",
-      "views": 9461,
+      "views": 9462,
       "exact": true,
       "published": "2026-07-22T17:11:35+00:00",
       "description": "¿Os gusta el juego? ⭐️⭐️"
