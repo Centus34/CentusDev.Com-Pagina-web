@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-28T23:15:35.205Z",
+  "updatedAt": "2026-09-29T12:51:00.762Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1540202,
+    "totalViews": 1540292,
     "subscribersText": "1,59 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1057,
-      "checkedAt": "2026-09-28T23:15:34.803Z"
+      "checkedAt": "2026-09-29T12:51:00.577Z"
     },
     "instagram": {
       "followers": 1772,
@@ -17,6 +17,14 @@
     }
   },
   "latest": [
+    {
+      "id": "zwruNgrabJg",
+      "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
+      "published": "2026-09-29T11:55:31+00:00",
+      "views": 465,
+      "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
+      "exact": true
+    },
     {
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
@@ -29,7 +37,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21559,
+      "views": 21563,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -37,7 +45,7 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21644,
+      "views": 21648,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
       "exact": true
     },
@@ -71,14 +79,6 @@
       "published": "2026-08-21T15:08:59+00:00",
       "views": 28727,
       "description": "¿Sabíais que eran en verdad esferas? 🔴",
-      "exact": true
-    },
-    {
-      "id": "ydSJJxax8II",
-      "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "published": "2026-08-19T11:49:46+00:00",
-      "views": 49526,
-      "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢",
       "exact": true
     }
   ],
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21559,
+      "views": 21563,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21644,
+      "views": 21648,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -422,6 +422,14 @@
       "title": "¿ES NECESARIO JAVA PARA JUGAR MINECRAFT?",
       "views": 1900,
       "exact": false
+    },
+    "zwruNgrabJg": {
+      "id": "zwruNgrabJg",
+      "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
+      "views": 465,
+      "exact": true,
+      "published": "2026-09-29T11:55:31+00:00",
+      "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
     }
   }
 }
