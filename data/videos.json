@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-30T22:14:43.769Z",
+  "updatedAt": "2026-10-01T05:51:03.123Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1540292,
-    "subscribersText": "1,69 K"
+    "totalViews": 1554930,
+    "subscribersText": "1,7 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1057,
-      "checkedAt": "2026-09-30T22:14:43.170Z"
+      "checkedAt": "2026-10-01T05:51:02.433Z"
     },
     "instagram": {
       "followers": 1772,
@@ -172,24 +172,24 @@
     "94Z3rKSpMsg": {
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
-      "views": 108,
-      "exact": true,
+      "views": 112,
+      "exact": false,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
     },
     "tqL19KOw_BQ": {
       "id": "tqL19KOw_BQ",
       "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
-      "views": 129,
-      "exact": true,
+      "views": 134,
+      "exact": false,
       "published": "2026-08-07T22:53:02+00:00",
       "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
     },
     "V6bE78BVLMo": {
       "id": "V6bE78BVLMo",
       "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
-      "views": 60,
-      "exact": true,
+      "views": 61,
+      "exact": false,
       "published": "2026-08-03T22:05:38+00:00",
       "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
     },
@@ -426,8 +426,8 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 20315,
-      "exact": true,
+      "views": 23000,
+      "exact": false,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
     }
