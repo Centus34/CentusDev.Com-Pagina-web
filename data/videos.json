@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T22:40:26.648Z",
+  "updatedAt": "2026-10-02T05:35:34.565Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,7 +9,7 @@
   "socials": {
     "tiktok": {
       "followers": 1060,
-      "checkedAt": "2026-10-01T22:40:26.250Z"
+      "checkedAt": "2026-10-02T05:35:34.247Z"
     },
     "instagram": {
       "followers": 1772,
@@ -426,16 +426,16 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 24660,
-      "exact": true,
+      "views": 25000,
+      "exact": false,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
     },
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 2570,
-      "exact": true,
+      "views": 3100,
+      "exact": false,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
     }
