@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T12:32:54.174Z",
+  "updatedAt": "2026-10-02T22:13:13.073Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1564896,
+    "totalViews": 1566031,
     "subscribersText": "1,71 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1060,
-      "checkedAt": "2026-10-02T12:32:53.600Z"
+      "followers": 1059,
+      "checkedAt": "2026-10-02T22:13:12.187Z"
     },
     "instagram": {
       "followers": 1772,
@@ -21,7 +21,7 @@
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3191,
+      "views": 3194,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 25082,
+      "views": 25141,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
       "published": "2026-08-24T16:40:38+00:00",
-      "views": 46243,
+      "views": 46245,
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭",
       "exact": true
     }
@@ -101,7 +101,7 @@
     {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46243
+      "views": 46245
     }
   ],
   "archive": {
@@ -148,7 +148,7 @@
     "SneNTNXegdU": {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46243,
+      "views": 46245,
       "exact": true,
       "published": "2026-08-24T16:40:38+00:00",
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 25082,
+      "views": 25141,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -434,7 +434,7 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3191,
+      "views": 3194,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
