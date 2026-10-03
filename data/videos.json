@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T16:16:48.496Z",
+  "updatedAt": "2026-10-03T21:13:16.539Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,7 +9,7 @@
   "socials": {
     "tiktok": {
       "followers": 1064,
-      "checkedAt": "2026-10-03T16:16:47.795Z"
+      "checkedAt": "2026-10-03T21:13:16.410Z"
     },
     "instagram": {
       "followers": 1815,
@@ -18,11 +18,11 @@
   },
   "latest": [
     {
-      "id": "fzTfMOv6JLA",
-      "title": "LAS LUCES NO DEBERÍAN VERSE ASÍ EN VIDEOJUEGOS 💡",
-      "published": "2026-10-03T13:49:11+00:00",
-      "views": 1,
-      "description": "¿Conocéis otro método de iluminación? 💡",
+      "id": "MNiASDD24uU",
+      "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
+      "published": "2026-10-03T17:58:23+00:00",
+      "views": 4,
+      "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
     {
@@ -37,7 +37,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 25558,
+      "views": 25643,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -96,7 +96,7 @@
     {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49553
+      "views": 49554
     },
     {
       "id": "SneNTNXegdU",
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 28759,
+      "views": 28761,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -164,7 +164,7 @@
     "ydSJJxax8II": {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49553,
+      "views": 49554,
       "exact": true,
       "published": "2026-08-19T11:49:46+00:00",
       "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 25558,
+      "views": 25643,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -446,6 +446,14 @@
       "exact": true,
       "published": "2026-10-03T13:49:11+00:00",
       "description": "¿Conocéis otro método de iluminación? 💡"
+    },
+    "MNiASDD24uU": {
+      "id": "MNiASDD24uU",
+      "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
+      "views": 4,
+      "exact": true,
+      "published": "2026-10-03T17:58:23+00:00",
+      "description": "¿Conoces más técnicas de iluminación? 💡"
     }
   }
 }
