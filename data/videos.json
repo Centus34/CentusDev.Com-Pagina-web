@@ -1,27 +1,35 @@
 {
-  "updatedAt": "2026-10-03T11:38:16.565Z",
+  "updatedAt": "2026-10-03T16:16:48.496Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1569257,
+    "totalViews": 1569710,
     "subscribersText": "1,71 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1060,
-      "checkedAt": "2026-10-03T11:38:16.112Z"
+      "followers": 1064,
+      "checkedAt": "2026-10-03T16:16:47.795Z"
     },
     "instagram": {
-      "followers": 1772,
-      "checkedAt": "2026-09-26T10:30:34.705Z"
+      "followers": 1815,
+      "checkedAt": "2026-10-03T16:16:48.495Z"
     }
   },
   "latest": [
     {
+      "id": "fzTfMOv6JLA",
+      "title": "LAS LUCES NO DEBERÍAN VERSE ASÍ EN VIDEOJUEGOS 💡",
+      "published": "2026-10-03T13:49:11+00:00",
+      "views": 1,
+      "description": "¿Conocéis otro método de iluminación? 💡",
+      "exact": true
+    },
+    {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3196,
+      "views": 3197,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -29,7 +37,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 25521,
+      "views": 25558,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -37,7 +45,7 @@
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
       "published": "2026-09-15T11:45:53+00:00",
-      "views": 20392,
+      "views": 20393,
       "description": "¿Que os parece el GTA 6? 🚗",
       "exact": true
     },
@@ -72,14 +80,6 @@
       "views": 5735,
       "description": "¿Sabéis qué más usos tiene el input buffer? 🧐",
       "exact": true
-    },
-    {
-      "id": "SneNTNXegdU",
-      "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "published": "2026-08-24T16:40:38+00:00",
-      "views": 46250,
-      "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭",
-      "exact": true
     }
   ],
   "top": [
@@ -108,7 +108,7 @@
     "vhIYaLjqqa4": {
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
-      "views": 20392,
+      "views": 20393,
       "exact": true,
       "published": "2026-09-15T11:45:53+00:00",
       "description": "¿Que os parece el GTA 6? 🚗"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 25521,
+      "views": 25558,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -434,10 +434,18 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3196,
+      "views": 3197,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
+    },
+    "fzTfMOv6JLA": {
+      "id": "fzTfMOv6JLA",
+      "title": "LAS LUCES NO DEBERÍAN VERSE ASÍ EN VIDEOJUEGOS 💡",
+      "views": 1,
+      "exact": true,
+      "published": "2026-10-03T13:49:11+00:00",
+      "description": "¿Conocéis otro método de iluminación? 💡"
     }
   }
 }
