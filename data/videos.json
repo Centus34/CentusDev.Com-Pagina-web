@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-04T12:20:11.609Z",
+  "updatedAt": "2026-10-04T21:23:35.206Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1569849,
+    "totalViews": 1570103,
     "subscribersText": "1,71 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1069,
-      "checkedAt": "2026-10-04T12:20:11.030Z"
+      "checkedAt": "2026-10-04T21:23:34.973Z"
     },
     "instagram": {
       "followers": 1815,
@@ -21,7 +21,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 12,
+      "views": 17,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 25898,
+      "views": 25933,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 25898,
+      "views": 25933,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -450,7 +450,7 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 12,
+      "views": 17,
       "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
