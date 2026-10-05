@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-05T05:38:02.978Z",
+  "updatedAt": "2026-10-05T14:35:33.487Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1570103,
+    "totalViews": 1570180,
     "subscribersText": "1,71 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1068,
-      "checkedAt": "2026-10-05T05:38:02.438Z"
+      "checkedAt": "2026-10-05T14:35:33.275Z"
     },
     "instagram": {
       "followers": 1815,
@@ -21,7 +21,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 17,
+      "views": 18,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3200,
+      "views": 3202,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 25933,
+      "views": 26246,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -53,7 +53,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21639,
+      "views": 21640,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -101,7 +101,7 @@
     {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46250
+      "views": 46251
     }
   ],
   "archive": {
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21639,
+      "views": 21640,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -148,7 +148,7 @@
     "SneNTNXegdU": {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46250,
+      "views": 46251,
       "exact": true,
       "published": "2026-08-24T16:40:38+00:00",
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 28761,
+      "views": 28762,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -426,15 +426,15 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26000,
-      "exact": false,
+      "views": 26246,
+      "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
     },
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3200,
+      "views": 3202,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
@@ -451,7 +451,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "views": 18,
-      "exact": false,
+      "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     }
