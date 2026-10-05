@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T21:23:35.206Z",
+  "updatedAt": "2026-10-05T05:38:02.978Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1069,
-      "checkedAt": "2026-10-04T21:23:34.973Z"
+      "followers": 1068,
+      "checkedAt": "2026-10-05T05:38:02.438Z"
     },
     "instagram": {
       "followers": 1815,
@@ -426,8 +426,8 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 25933,
-      "exact": true,
+      "views": 26000,
+      "exact": false,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
     },
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 17,
-      "exact": true,
+      "views": 18,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     }
