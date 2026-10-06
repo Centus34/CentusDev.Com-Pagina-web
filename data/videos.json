@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T06:19:03.544Z",
+  "updatedAt": "2026-10-06T18:21:05.564Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,11 +9,11 @@
   "socials": {
     "tiktok": {
       "followers": 1071,
-      "checkedAt": "2026-10-06T06:19:03.209Z"
+      "checkedAt": "2026-10-06T18:21:05.195Z"
     },
     "instagram": {
-      "followers": 1815,
-      "checkedAt": "2026-10-03T16:16:48.495Z"
+      "followers": 1839,
+      "checkedAt": "2026-10-06T18:21:05.564Z"
     }
   },
   "latest": [
@@ -21,7 +21,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 2265,
+      "views": 2419,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 65,
+      "views": 79,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 26378,
+      "views": 26666,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26378,
+      "views": 26666,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -450,16 +450,16 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 77,
-      "exact": false,
+      "views": 79,
+      "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 2300,
-      "exact": false,
+      "views": 2419,
+      "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
     }
