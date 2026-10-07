@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T13:21:11.983Z",
+  "updatedAt": "2026-10-07T23:04:32.150Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1573466,
+    "totalViews": 1573789,
     "subscribersText": "1,72 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1072,
-      "checkedAt": "2026-10-07T13:21:11.593Z"
+      "checkedAt": "2026-10-07T23:04:31.693Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 2659,
+      "views": 2735,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 81,
+      "views": 82,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3215,
+      "views": 3216,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 26716,
+      "views": 26741,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -69,7 +69,7 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21730,
+      "views": 21731,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
       "exact": true
     },
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21730,
+      "views": 21731,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26716,
+      "views": 26741,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -434,7 +434,7 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3215,
+      "views": 3216,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
@@ -450,7 +450,7 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 81,
+      "views": 82,
       "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 2659,
+      "views": 2735,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
