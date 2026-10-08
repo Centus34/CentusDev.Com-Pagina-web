@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:02:05.668Z",
+  "updatedAt": "2026-10-08T13:27:27.037Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -9,7 +9,7 @@
   "socials": {
     "tiktok": {
       "followers": 1072,
-      "checkedAt": "2026-10-08T06:02:05.460Z"
+      "checkedAt": "2026-10-08T13:27:26.424Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 2735,
+      "views": 2817,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 82,
+      "views": 83,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 26741,
+      "views": 26829,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -140,7 +140,7 @@
     "aXBwQrR-WAM": {
       "id": "aXBwQrR-WAM",
       "title": "¿COMO SE SABE CUANDO HAS HECHO UN COMBO?",
-      "views": 5739,
+      "views": 5740,
       "exact": true,
       "published": "2026-08-28T17:13:19+00:00",
       "description": "¿Sabéis qué más usos tiene el input buffer? 🧐"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26741,
+      "views": 26829,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -451,14 +451,14 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "views": 83,
-      "exact": false,
+      "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 2735,
+      "views": 2817,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
