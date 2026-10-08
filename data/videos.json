@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T23:04:32.150Z",
+  "updatedAt": "2026-10-08T06:02:05.668Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1573789,
+    "totalViews": 1573813,
     "subscribersText": "1,72 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1072,
-      "checkedAt": "2026-10-07T23:04:31.693Z"
+      "checkedAt": "2026-10-08T06:02:05.460Z"
     },
     "instagram": {
       "followers": 1839,
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 82,
-      "exact": true,
+      "views": 83,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
