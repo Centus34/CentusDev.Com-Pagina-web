@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T13:27:27.037Z",
+  "updatedAt": "2026-10-08T23:20:13.543Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1573813,
-    "subscribersText": "1,72 K"
+    "totalViews": 1574110,
+    "subscribersText": "1,73 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1072,
-      "checkedAt": "2026-10-08T13:27:26.424Z"
+      "followers": 1195,
+      "checkedAt": "2026-10-08T23:20:13.360Z"
     },
     "instagram": {
       "followers": 1839,
@@ -18,10 +18,18 @@
   },
   "latest": [
     {
+      "id": "J3I2EQouZMA",
+      "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
+      "published": "2026-10-08T15:38:47+00:00",
+      "views": 3825,
+      "description": "¿Habéis visto esto en algún juego? 🧱",
+      "exact": true
+    },
+    {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 2817,
+      "views": 2928,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -29,7 +37,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 83,
+      "views": 87,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -37,7 +45,7 @@
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3216,
+      "views": 3217,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -45,7 +53,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 26829,
+      "views": 26857,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -53,7 +61,7 @@
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
       "published": "2026-09-15T11:45:53+00:00",
-      "views": 20394,
+      "views": 20395,
       "description": "¿Que os parece el GTA 6? 🚗",
       "exact": true
     },
@@ -69,16 +77,8 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21731,
+      "views": 21732,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
-      "exact": true
-    },
-    {
-      "id": "M4yzi5K2rMM",
-      "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
-      "published": "2026-09-02T14:52:08+00:00",
-      "views": 6568,
-      "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦",
       "exact": true
     }
   ],
@@ -108,7 +108,7 @@
     "vhIYaLjqqa4": {
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
-      "views": 20394,
+      "views": 20395,
       "exact": true,
       "published": "2026-09-15T11:45:53+00:00",
       "description": "¿Que os parece el GTA 6? 🚗"
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21731,
+      "views": 21732,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -132,7 +132,7 @@
     "M4yzi5K2rMM": {
       "id": "M4yzi5K2rMM",
       "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
-      "views": 6568,
+      "views": 6570,
       "exact": true,
       "published": "2026-09-02T14:52:08+00:00",
       "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦"
@@ -140,7 +140,7 @@
     "aXBwQrR-WAM": {
       "id": "aXBwQrR-WAM",
       "title": "¿COMO SE SABE CUANDO HAS HECHO UN COMBO?",
-      "views": 5740,
+      "views": 5744,
       "exact": true,
       "published": "2026-08-28T17:13:19+00:00",
       "description": "¿Sabéis qué más usos tiene el input buffer? 🧐"
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 28763,
+      "views": 28767,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26829,
+      "views": 26857,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -434,7 +434,7 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3216,
+      "views": 3217,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
@@ -450,7 +450,7 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 83,
+      "views": 87,
       "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
@@ -458,10 +458,18 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 2817,
+      "views": 2928,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
+    },
+    "J3I2EQouZMA": {
+      "id": "J3I2EQouZMA",
+      "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
+      "views": 3825,
+      "exact": true,
+      "published": "2026-10-08T15:38:47+00:00",
+      "description": "¿Habéis visto esto en algún juego? 🧱"
     }
   }
 }
