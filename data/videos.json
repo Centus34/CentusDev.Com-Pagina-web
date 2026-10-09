@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T06:07:00.391Z",
+  "updatedAt": "2026-10-09T13:15:13.480Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1574115,
-    "subscribersText": "1,74 K"
+    "subscribersText": "1,75 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1264,
-      "checkedAt": "2026-10-09T06:07:00.099Z"
+      "followers": 1304,
+      "checkedAt": "2026-10-09T13:15:13.078Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 3825,
+      "views": 10009,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 2928,
+      "views": 2982,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 87,
+      "views": 90,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3217,
+      "views": 3218,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -53,7 +53,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 26857,
+      "views": 26921,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -69,7 +69,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21642,
+      "views": 21646,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -101,7 +101,7 @@
     {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46252
+      "views": 46257
     }
   ],
   "archive": {
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21642,
+      "views": 21646,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -148,7 +148,7 @@
     "SneNTNXegdU": {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46252,
+      "views": 46257,
       "exact": true,
       "published": "2026-08-24T16:40:38+00:00",
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 28767,
+      "views": 28770,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26857,
+      "views": 26921,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -434,7 +434,7 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3217,
+      "views": 3218,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
@@ -450,15 +450,15 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 89,
-      "exact": false,
+      "views": 90,
+      "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 2928,
+      "views": 2982,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 7100,
-      "exact": false,
+      "views": 10009,
+      "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     }
