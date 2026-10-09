@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T23:20:13.543Z",
+  "updatedAt": "2026-10-09T06:07:00.391Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1574110,
-    "subscribersText": "1,73 K"
+    "totalViews": 1574115,
+    "subscribersText": "1,74 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1195,
-      "checkedAt": "2026-10-08T23:20:13.360Z"
+      "followers": 1264,
+      "checkedAt": "2026-10-09T06:07:00.099Z"
     },
     "instagram": {
       "followers": 1839,
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 87,
-      "exact": true,
+      "views": 89,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 3825,
-      "exact": true,
+      "views": 7100,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     }
