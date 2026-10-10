@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-10T05:50:58.776Z",
+  "updatedAt": "2026-10-10T12:30:11.105Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1574304,
+    "totalViews": 1574496,
     "subscribersText": "1,77 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1364,
-      "checkedAt": "2026-10-10T05:50:58.250Z"
+      "followers": 1370,
+      "checkedAt": "2026-10-10T12:30:10.879Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 15815,
+      "views": 19564,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 3024,
+      "views": 3032,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
       "published": "2026-10-03T17:58:23+00:00",
-      "views": 92,
+      "views": 96,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3220,
+      "views": 3225,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -53,7 +53,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 26938,
+      "views": 26941,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
       "published": "2026-09-15T11:45:53+00:00",
-      "views": 20396,
+      "views": 20398,
       "description": "¿Que os parece el GTA 6? 🚗",
       "exact": true
     },
@@ -69,7 +69,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21648,
+      "views": 21650,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21735,
+      "views": 21738,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
       "exact": true
     }
@@ -96,19 +96,19 @@
     {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49559
+      "views": 49560
     },
     {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46258
+      "views": 46259
     }
   ],
   "archive": {
     "vhIYaLjqqa4": {
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
-      "views": 20396,
+      "views": 20398,
       "exact": true,
       "published": "2026-09-15T11:45:53+00:00",
       "description": "¿Que os parece el GTA 6? 🚗"
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21648,
+      "views": 21650,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21735,
+      "views": 21738,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -132,7 +132,7 @@
     "M4yzi5K2rMM": {
       "id": "M4yzi5K2rMM",
       "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
-      "views": 6571,
+      "views": 6576,
       "exact": true,
       "published": "2026-09-02T14:52:08+00:00",
       "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦"
@@ -140,7 +140,7 @@
     "aXBwQrR-WAM": {
       "id": "aXBwQrR-WAM",
       "title": "¿COMO SE SABE CUANDO HAS HECHO UN COMBO?",
-      "views": 5745,
+      "views": 5746,
       "exact": true,
       "published": "2026-08-28T17:13:19+00:00",
       "description": "¿Sabéis qué más usos tiene el input buffer? 🧐"
@@ -148,7 +148,7 @@
     "SneNTNXegdU": {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46258,
+      "views": 46259,
       "exact": true,
       "published": "2026-08-24T16:40:38+00:00",
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 28772,
+      "views": 28774,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -164,7 +164,7 @@
     "ydSJJxax8II": {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49559,
+      "views": 49560,
       "exact": true,
       "published": "2026-08-19T11:49:46+00:00",
       "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢"
@@ -173,7 +173,7 @@
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
       "views": 117,
-      "exact": false,
+      "exact": true,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
     },
@@ -181,7 +181,7 @@
       "id": "tqL19KOw_BQ",
       "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
       "views": 139,
-      "exact": false,
+      "exact": true,
       "published": "2026-08-07T22:53:02+00:00",
       "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
     },
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26938,
+      "views": 26941,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -434,7 +434,7 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3220,
+      "views": 3225,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
@@ -450,15 +450,15 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 95,
-      "exact": false,
+      "views": 96,
+      "exact": true,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3024,
+      "views": 3032,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 18000,
-      "exact": false,
+      "views": 19564,
+      "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     }
