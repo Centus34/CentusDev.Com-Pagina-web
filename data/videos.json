@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-10T12:30:11.105Z",
+  "updatedAt": "2026-10-10T21:42:51.222Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1574496,
-    "subscribersText": "1,77 K"
+    "totalViews": 1574609,
+    "subscribersText": "1,78 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1370,
-      "checkedAt": "2026-10-10T12:30:10.879Z"
+      "followers": 1386,
+      "checkedAt": "2026-10-10T21:42:50.729Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 19564,
+      "views": 21750,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 3032,
+      "views": 3037,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -53,7 +53,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 26941,
+      "views": 26943,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
       "published": "2026-09-15T11:45:53+00:00",
-      "views": 20398,
+      "views": 20399,
       "description": "¿Que os parece el GTA 6? 🚗",
       "exact": true
     },
@@ -69,7 +69,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 21650,
+      "views": 21658,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
       "published": "2026-09-09T11:56:44+00:00",
-      "views": 21738,
+      "views": 21739,
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻",
       "exact": true
     }
@@ -101,14 +101,14 @@
     {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46259
+      "views": 46261
     }
   ],
   "archive": {
     "vhIYaLjqqa4": {
       "id": "vhIYaLjqqa4",
       "title": "¿LOS COCHES DEL GTA 6 VUELCAN?",
-      "views": 20398,
+      "views": 20399,
       "exact": true,
       "published": "2026-09-15T11:45:53+00:00",
       "description": "¿Que os parece el GTA 6? 🚗"
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 21650,
+      "views": 21658,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -124,7 +124,7 @@
     "_7Wrmim4T28": {
       "id": "_7Wrmim4T28",
       "title": "¿POR QUÉ TE DAN SI ESTÁS OCULTO? 🧐",
-      "views": 21738,
+      "views": 21739,
       "exact": true,
       "published": "2026-09-09T11:56:44+00:00",
       "description": "¿SABÍAS QUE ESTO PASABA EN EL MULTIJUGADOR? 💻"
@@ -132,7 +132,7 @@
     "M4yzi5K2rMM": {
       "id": "M4yzi5K2rMM",
       "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
-      "views": 6576,
+      "views": 6584,
       "exact": true,
       "published": "2026-09-02T14:52:08+00:00",
       "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦"
@@ -148,7 +148,7 @@
     "SneNTNXegdU": {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46259,
+      "views": 46261,
       "exact": true,
       "published": "2026-08-24T16:40:38+00:00",
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 28774,
+      "views": 28779,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26941,
+      "views": 26943,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3032,
+      "views": 3037,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 19564,
+      "views": 21750,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
