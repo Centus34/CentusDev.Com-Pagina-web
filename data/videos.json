@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-10T21:42:51.222Z",
+  "updatedAt": "2026-10-11T05:44:57.275Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1574609,
+    "totalViews": 1574622,
     "subscribersText": "1,78 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1386,
-      "checkedAt": "2026-10-10T21:42:50.729Z"
+      "followers": 1390,
+      "checkedAt": "2026-10-11T05:44:56.996Z"
     },
     "instagram": {
       "followers": 1839,
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 21750,
-      "exact": true,
+      "views": 26000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     }
