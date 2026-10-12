@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-11T21:57:05.787Z",
+  "updatedAt": "2026-10-12T05:55:31.100Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1601646,
-    "subscribersText": "1,82 K"
+    "totalViews": 1610824,
+    "subscribersText": "1,83 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1400,
-      "checkedAt": "2026-10-11T21:57:05.552Z"
+      "followers": 1404,
+      "checkedAt": "2026-10-12T05:55:30.560Z"
     },
     "instagram": {
       "followers": 1839,
@@ -94,14 +94,14 @@
       "views": 349000
     },
     {
+      "id": "J3I2EQouZMA",
+      "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
+      "views": 50000
+    },
+    {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
       "views": 49571
-    },
-    {
-      "id": "SneNTNXegdU",
-      "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46262
     }
   ],
   "archive": {
@@ -172,8 +172,8 @@
     "94Z3rKSpMsg": {
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
-      "views": 118,
-      "exact": true,
+      "views": 119,
+      "exact": false,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
     },
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 102,
-      "exact": true,
+      "views": 110,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 44379,
-      "exact": true,
+      "views": 50000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     }
