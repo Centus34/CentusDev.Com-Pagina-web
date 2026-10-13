@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-13T14:10:00.368Z",
+  "updatedAt": "2026-10-13T22:43:59.011Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1621515,
-    "subscribersText": "1,98 K"
+    "totalViews": 1661671,
+    "subscribersText": "2,05 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1411,
-      "checkedAt": "2026-10-13T14:09:59.821Z"
+      "followers": 1413,
+      "checkedAt": "2026-10-13T22:43:58.534Z"
     },
     "instagram": {
       "followers": 1839,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 95355
+      "views": 109000
     },
     {
       "id": "ydSJJxax8II",
@@ -172,23 +172,23 @@
     "94Z3rKSpMsg": {
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
-      "views": 129,
-      "exact": true,
+      "views": 130,
+      "exact": false,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
     },
     "tqL19KOw_BQ": {
       "id": "tqL19KOw_BQ",
       "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
-      "views": 149,
-      "exact": true,
+      "views": 151,
+      "exact": false,
       "published": "2026-08-07T22:53:02+00:00",
       "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
     },
     "V6bE78BVLMo": {
       "id": "V6bE78BVLMo",
       "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
-      "views": 71,
+      "views": 74,
       "exact": false,
       "published": "2026-08-03T22:05:38+00:00",
       "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 140,
-      "exact": true,
+      "views": 144,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 95355,
-      "exact": true,
+      "views": 109000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     }
