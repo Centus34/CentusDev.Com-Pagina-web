@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-12T15:21:53.032Z",
+  "updatedAt": "2026-10-13T00:38:18.866Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1621515,
-    "subscribersText": "1,84 K"
+    "subscribersText": "1,92 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1406,
-      "checkedAt": "2026-10-12T15:21:52.695Z"
+      "followers": 1408,
+      "checkedAt": "2026-10-13T00:38:18.575Z"
     },
     "instagram": {
       "followers": 1839,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 54527
+      "views": 71000
     },
     {
       "id": "ydSJJxax8II",
@@ -172,16 +172,16 @@
     "94Z3rKSpMsg": {
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
-      "views": 122,
-      "exact": true,
+      "views": 127,
+      "exact": false,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
     },
     "tqL19KOw_BQ": {
       "id": "tqL19KOw_BQ",
       "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
-      "views": 144,
-      "exact": true,
+      "views": 145,
+      "exact": false,
       "published": "2026-08-07T22:53:02+00:00",
       "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
     },
@@ -426,8 +426,8 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 26984,
-      "exact": true,
+      "views": 27000,
+      "exact": false,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
     },
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 115,
-      "exact": true,
+      "views": 119,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 54527,
-      "exact": true,
+      "views": 71000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     }
