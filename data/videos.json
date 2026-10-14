@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-13T22:43:59.011Z",
+  "updatedAt": "2026-10-14T04:51:35.903Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1661671,
-    "subscribersText": "2,05 K"
+    "subscribersText": "2,08 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1413,
-      "checkedAt": "2026-10-13T22:43:58.534Z"
+      "followers": 1415,
+      "checkedAt": "2026-10-14T04:51:33.516Z"
     },
     "instagram": {
       "followers": 1839,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 109000
+      "views": 121000
     },
     {
       "id": "ydSJJxax8II",
@@ -390,7 +390,7 @@
     "GHx6mb6VKkg": {
       "id": "GHx6mb6VKkg",
       "title": "MEJORES HERRAMIENTAS PARA HACER VIDEOJUEGOS",
-      "views": 734,
+      "views": 737,
       "exact": false
     },
     "vq9pdL2k0dY": {
@@ -450,7 +450,7 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 144,
+      "views": 152,
       "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
@@ -458,15 +458,15 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3092,
-      "exact": true,
+      "views": 3100,
+      "exact": false,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
     },
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 109000,
+      "views": 121000,
       "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
