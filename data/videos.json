@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-16T21:06:52.085Z",
+  "updatedAt": "2026-10-17T04:23:35.033Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1762418,
-    "subscribersText": "2,26 K"
+    "subscribersText": "2,27 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1436,
-      "checkedAt": "2026-10-16T21:06:51.882Z"
+      "followers": 1438,
+      "checkedAt": "2026-10-17T04:23:34.406Z"
     },
     "instagram": {
       "followers": 1839,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 186564
+      "views": 189000
     },
     {
       "id": "ydSJJxax8II",
@@ -466,16 +466,16 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 186564,
-      "exact": true,
+      "views": 189000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     },
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 1581,
-      "exact": true,
+      "views": 1600,
+      "exact": false,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
     }
