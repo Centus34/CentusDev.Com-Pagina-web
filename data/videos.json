@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T10:42:07.444Z",
+  "updatedAt": "2026-10-17T15:33:02.475Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1441,
-      "checkedAt": "2026-10-17T10:42:07.110Z"
+      "followers": 1442,
+      "checkedAt": "2026-10-17T15:33:02.033Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
       "published": "2026-10-14T13:17:08+00:00",
-      "views": 1623,
+      "views": 1626,
       "description": "Decidme que juego queréis que haga en 3D 🧟",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 190908,
+      "views": 191679,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 3140,
+      "views": 3142,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 27167,
+      "views": 27169,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 22216,
+      "views": 22218,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     }
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 190908
+      "views": 191679
     },
     {
       "id": "ydSJJxax8II",
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 22216,
+      "views": 22218,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 29126,
+      "views": 29127,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -288,7 +288,7 @@
     "UD02lGAWtZo": {
       "id": "UD02lGAWtZo",
       "title": "🌳 NECESITAS ESTÁ OPTIMIZACIÓN PARA TU VIDEOJUEGO 🌳",
-      "views": 8400,
+      "views": 8500,
       "exact": false
     },
     "hBbzJHANDOE": {
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 27167,
+      "views": 27169,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3140,
+      "views": 3142,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 190908,
+      "views": 191679,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 1623,
+      "views": 1626,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
