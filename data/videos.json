@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:51:10.159Z",
+  "updatedAt": "2026-10-18T20:41:11.952Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1450,
-      "checkedAt": "2026-10-18T15:51:09.830Z"
+      "followers": 1453,
+      "checkedAt": "2026-10-18T20:41:11.337Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
       "published": "2026-10-18T12:13:57+00:00",
-      "views": 881,
+      "views": 1130,
       "description": "Que se repita muchas veces más 🙌",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
       "published": "2026-10-14T13:17:08+00:00",
-      "views": 1642,
+      "views": 1648,
       "description": "Decidme que juego queréis que haga en 3D 🧟",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 196201,
+      "views": 196868,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
       "published": "2026-10-01T13:35:12+00:00",
-      "views": 3297,
+      "views": 3298,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
     },
@@ -96,12 +96,12 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 196201
+      "views": 196868
     },
     {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49677
+      "views": 49679
     }
   ],
   "archive": {
@@ -132,7 +132,7 @@
     "M4yzi5K2rMM": {
       "id": "M4yzi5K2rMM",
       "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
-      "views": 6614,
+      "views": 6617,
       "exact": true,
       "published": "2026-09-02T14:52:08+00:00",
       "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦"
@@ -164,7 +164,7 @@
     "ydSJJxax8II": {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49677,
+      "views": 49679,
       "exact": true,
       "published": "2026-08-19T11:49:46+00:00",
       "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢"
@@ -434,7 +434,7 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3297,
+      "views": 3298,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 196201,
+      "views": 196868,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 1642,
+      "views": 1648,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -482,7 +482,7 @@
     "90dsM5FRe4I": {
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
-      "views": 881,
+      "views": 1130,
       "exact": true,
       "published": "2026-10-18T12:13:57+00:00",
       "description": "Que se repita muchas veces más 🙌"
