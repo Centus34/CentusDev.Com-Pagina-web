@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:31:21.135Z",
+  "updatedAt": "2026-10-18T11:02:39.044Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1449,
-      "checkedAt": "2026-10-18T04:31:20.501Z"
+      "followers": 1450,
+      "checkedAt": "2026-10-18T11:02:38.524Z"
     },
     "instagram": {
       "followers": 1839,
@@ -21,7 +21,7 @@
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
       "published": "2026-10-14T13:17:08+00:00",
-      "views": 1634,
+      "views": 1642,
       "description": "Decidme que juego queréis que haga en 3D 🧟",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 192560,
+      "views": 195808,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 27169,
+      "views": 27180,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
       "published": "2026-09-12T16:06:24+00:00",
-      "views": 22220,
+      "views": 22242,
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺",
       "exact": true
     }
@@ -96,12 +96,12 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 194000
+      "views": 195808
     },
     {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49661
+      "views": 49675
     }
   ],
   "archive": {
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 22220,
+      "views": 22242,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -148,7 +148,7 @@
     "SneNTNXegdU": {
       "id": "SneNTNXegdU",
       "title": "UNA PILA HA SALVADO TU PARTIDA DE POKEMON 😱",
-      "views": 46283,
+      "views": 46285,
       "exact": true,
       "published": "2026-08-24T16:40:38+00:00",
       "description": "¿Alguna vez se os ha borrado la partida de vuestro videojuego favorito? 😭"
@@ -156,7 +156,7 @@
     "GBgDwVcaLh4": {
       "id": "GBgDwVcaLh4",
       "title": "LOS COCHES EN VIDEOJUEGOS SON ESFERAS 🔴",
-      "views": 29130,
+      "views": 29148,
       "exact": true,
       "published": "2026-08-21T15:08:59+00:00",
       "description": "¿Sabíais que eran en verdad esferas? 🔴"
@@ -164,7 +164,7 @@
     "ydSJJxax8II": {
       "id": "ydSJJxax8II",
       "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49661,
+      "views": 49675,
       "exact": true,
       "published": "2026-08-19T11:49:46+00:00",
       "description": "¿EN QUE JUEGOS HAY EDIFICIOS ROMPIBLES? 🏢"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 27169,
+      "views": 27180,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -466,15 +466,15 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 194000,
-      "exact": false,
+      "views": 195808,
+      "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     },
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 1634,
+      "views": 1642,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
