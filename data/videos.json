@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:41:11.952Z",
+  "updatedAt": "2026-10-19T04:38:36.751Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1453,
-      "checkedAt": "2026-10-18T20:41:11.337Z"
+      "followers": 1455,
+      "checkedAt": "2026-10-19T04:38:36.516Z"
     },
     "instagram": {
       "followers": 1839,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 196868
+      "views": 197000
     },
     {
       "id": "ydSJJxax8II",
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 196868,
-      "exact": true,
+      "views": 197000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     },
@@ -482,8 +482,8 @@
     "90dsM5FRe4I": {
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
-      "views": 1130,
-      "exact": true,
+      "views": 1200,
+      "exact": false,
       "published": "2026-10-18T12:13:57+00:00",
       "description": "Que se repita muchas veces más 🙌"
     }
