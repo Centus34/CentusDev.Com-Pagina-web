@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-19T22:20:26.463Z",
+  "updatedAt": "2026-10-20T04:48:44.510Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1775286,
+    "totalViews": 1777574,
     "subscribersText": "2,29 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1454,
-      "checkedAt": "2026-10-19T22:20:25.903Z"
+      "followers": 1458,
+      "checkedAt": "2026-10-20T04:48:44.152Z"
     },
     "instagram": {
       "followers": 2173,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 198707
+      "views": 199000
     },
     {
       "id": "ydSJJxax8II",
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 180,
-      "exact": true,
+      "views": 181,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 198707,
-      "exact": true,
+      "views": 199000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     },
@@ -482,8 +482,8 @@
     "90dsM5FRe4I": {
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
-      "views": 1299,
-      "exact": true,
+      "views": 1300,
+      "exact": false,
       "published": "2026-10-18T12:13:57+00:00",
       "description": "Que se repita muchas veces más 🙌"
     }
