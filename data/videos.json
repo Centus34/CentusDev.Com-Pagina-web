@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:36:22.890Z",
+  "updatedAt": "2026-10-21T04:44:09.698Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1463,
-      "checkedAt": "2026-10-20T21:36:22.262Z"
+      "followers": 1483,
+      "checkedAt": "2026-10-21T04:44:09.423Z"
     },
     "instagram": {
       "followers": 2173,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 200938
+      "views": 202000
     },
     {
       "id": "ydSJJxax8II",
@@ -172,8 +172,8 @@
     "94Z3rKSpMsg": {
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
-      "views": 146,
-      "exact": true,
+      "views": 147,
+      "exact": false,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
     },
@@ -188,7 +188,7 @@
     "V6bE78BVLMo": {
       "id": "V6bE78BVLMo",
       "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
-      "views": 93,
+      "views": 95,
       "exact": false,
       "published": "2026-08-03T22:05:38+00:00",
       "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 182,
-      "exact": true,
+      "views": 184,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 200938,
-      "exact": true,
+      "views": 202000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     },
@@ -490,8 +490,8 @@
     "XVrZlGTIlZ4": {
       "id": "XVrZlGTIlZ4",
       "title": "ESTE PERSONAJE NO TIENE ESQUELETO 💀",
-      "views": 1258,
-      "exact": true,
+      "views": 1300,
+      "exact": false,
       "published": "2026-10-20T15:06:37+00:00",
       "description": "Sígueme si quieres ver más trucos como este 😁🌹"
     }
