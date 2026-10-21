@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:47:01.084Z",
+  "updatedAt": "2026-10-21T17:10:58.436Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1513,
-      "checkedAt": "2026-10-21T11:47:00.499Z"
+      "followers": 1533,
+      "checkedAt": "2026-10-21T17:10:57.838Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "XVrZlGTIlZ4",
       "title": "ESTE PERSONAJE NO TIENE ESQUELETO 💀",
       "published": "2026-10-20T15:06:37+00:00",
-      "views": 1334,
+      "views": 1335,
       "description": "Sígueme si quieres ver más trucos como este 😁🌹",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
       "published": "2026-10-18T12:13:57+00:00",
-      "views": 1347,
+      "views": 1352,
       "description": "Que se repita muchas veces más 🙌",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 202523,
+      "views": 202534,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -53,7 +53,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 3152,
+      "views": 3153,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
       "published": "2026-09-29T11:55:31+00:00",
-      "views": 27191,
+      "views": 27192,
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
       "exact": true
     }
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 202523
+      "views": 202534
     },
     {
       "id": "ydSJJxax8II",
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 27191,
+      "views": 27192,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3152,
+      "views": 3153,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 202523,
+      "views": 202534,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -482,7 +482,7 @@
     "90dsM5FRe4I": {
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
-      "views": 1347,
+      "views": 1352,
       "exact": true,
       "published": "2026-10-18T12:13:57+00:00",
       "description": "Que se repita muchas veces más 🙌"
@@ -490,7 +490,7 @@
     "XVrZlGTIlZ4": {
       "id": "XVrZlGTIlZ4",
       "title": "ESTE PERSONAJE NO TIENE ESQUELETO 💀",
-      "views": 1334,
+      "views": 1335,
       "exact": true,
       "published": "2026-10-20T15:06:37+00:00",
       "description": "Sígueme si quieres ver más trucos como este 😁🌹"
