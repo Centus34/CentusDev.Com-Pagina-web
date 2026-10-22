@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-22T11:50:04.639Z",
+  "updatedAt": "2026-10-22T17:09:24.459Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1784467,
+    "totalViews": 1784869,
     "subscribersText": "2,31 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1554,
-      "checkedAt": "2026-10-22T11:50:04.308Z"
+      "followers": 1561,
+      "checkedAt": "2026-10-22T17:09:23.994Z"
     },
     "instagram": {
       "followers": 2173,
@@ -18,10 +18,18 @@
   },
   "latest": [
     {
+      "id": "MLlhp5kr81E",
+      "title": "ESTE AGUJERO ES FALSO 🕳️",
+      "published": "2026-10-22T16:47:36+00:00",
+      "views": 241,
+      "description": "Sígueme para ver más videos como este ;)",
+      "exact": true
+    },
+    {
       "id": "XVrZlGTIlZ4",
       "title": "ESTE PERSONAJE NO TIENE ESQUELETO 💀",
       "published": "2026-10-20T15:06:37+00:00",
-      "views": 1427,
+      "views": 1467,
       "description": "Sígueme si quieres ver más trucos como este 😁🌹",
       "exact": true
     },
@@ -29,7 +37,7 @@
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
       "published": "2026-10-18T12:13:57+00:00",
-      "views": 1377,
+      "views": 1384,
       "description": "Que se repita muchas veces más 🙌",
       "exact": true
     },
@@ -37,7 +45,7 @@
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
       "published": "2026-10-14T13:17:08+00:00",
-      "views": 1749,
+      "views": 1750,
       "description": "Decidme que juego queréis que haga en 3D 🧟",
       "exact": true
     },
@@ -45,7 +53,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 202879,
+      "views": 202942,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -53,7 +61,7 @@
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
       "published": "2026-10-05T16:17:39+00:00",
-      "views": 3154,
+      "views": 3155,
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨",
       "exact": true
     },
@@ -72,14 +80,6 @@
       "views": 3303,
       "description": "Os ha molado el vídeo? 🥊",
       "exact": true
-    },
-    {
-      "id": "zwruNgrabJg",
-      "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "published": "2026-09-29T11:55:31+00:00",
-      "views": 27194,
-      "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️",
-      "exact": true
     }
   ],
   "top": [
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 202879
+      "views": 202942
     },
     {
       "id": "ydSJJxax8II",
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 27194,
+      "views": 27195,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3154,
+      "views": 3155,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 202879,
+      "views": 202942,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 1749,
+      "views": 1750,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -482,7 +482,7 @@
     "90dsM5FRe4I": {
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
-      "views": 1377,
+      "views": 1384,
       "exact": true,
       "published": "2026-10-18T12:13:57+00:00",
       "description": "Que se repita muchas veces más 🙌"
@@ -490,10 +490,18 @@
     "XVrZlGTIlZ4": {
       "id": "XVrZlGTIlZ4",
       "title": "ESTE PERSONAJE NO TIENE ESQUELETO 💀",
-      "views": 1427,
+      "views": 1467,
       "exact": true,
       "published": "2026-10-20T15:06:37+00:00",
       "description": "Sígueme si quieres ver más trucos como este 😁🌹"
+    },
+    "MLlhp5kr81E": {
+      "id": "MLlhp5kr81E",
+      "title": "ESTE AGUJERO ES FALSO 🕳️",
+      "views": 241,
+      "exact": true,
+      "published": "2026-10-22T16:47:36+00:00",
+      "description": "Sígueme para ver más videos como este ;)"
     }
   }
 }
