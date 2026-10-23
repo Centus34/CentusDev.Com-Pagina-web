@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-22T21:34:25.611Z",
+  "updatedAt": "2026-10-23T04:47:20.623Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1784869,
-    "subscribersText": "2,32 K"
+    "totalViews": 1785162,
+    "subscribersText": "2,34 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1568,
-      "checkedAt": "2026-10-22T21:34:25.029Z"
+      "followers": 1583,
+      "checkedAt": "2026-10-23T04:47:20.070Z"
     },
     "instagram": {
       "followers": 2173,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 202986
+      "views": 203000
     },
     {
       "id": "ydSJJxax8II",
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 184,
-      "exact": true,
+      "views": 186,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,8 +466,8 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 202986,
-      "exact": true,
+      "views": 203000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     },
@@ -498,8 +498,8 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 2218,
-      "exact": true,
+      "views": 7100,
+      "exact": false,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
     }
