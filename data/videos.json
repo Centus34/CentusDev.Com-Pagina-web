@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-23T21:23:25.439Z",
+  "updatedAt": "2026-10-24T04:34:32.851Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1794885,
+    "totalViews": 1808434,
     "subscribersText": "2,38 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1588,
-      "checkedAt": "2026-10-23T21:23:24.807Z"
+      "checkedAt": "2026-10-24T04:34:32.038Z"
     },
     "instagram": {
       "followers": 2173,
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 203882
+      "views": 204000
     },
     {
       "id": "ydSJJxax8II",
@@ -330,7 +330,7 @@
     "pMOxsOwffCk": {
       "id": "pMOxsOwffCk",
       "title": "⏱️ FORZA HORIZON 6 CARGA EN SOLO 4 SEGUNDOS ⏱️",
-      "views": 223,
+      "views": 224,
       "exact": false
     },
     "n8868mp5FJc": {
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 190,
-      "exact": true,
+      "views": 192,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -466,16 +466,16 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 203882,
-      "exact": true,
+      "views": 204000,
+      "exact": false,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
     },
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 1790,
-      "exact": true,
+      "views": 1800,
+      "exact": false,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
     },
@@ -490,16 +490,16 @@
     "XVrZlGTIlZ4": {
       "id": "XVrZlGTIlZ4",
       "title": "ESTE PERSONAJE NO TIENE ESQUELETO 💀",
-      "views": 1678,
-      "exact": true,
+      "views": 1700,
+      "exact": false,
       "published": "2026-10-20T15:06:37+00:00",
       "description": "Sígueme si quieres ver más trucos como este 😁🌹"
     },
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 21308,
-      "exact": true,
+      "views": 28000,
+      "exact": false,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
     }
