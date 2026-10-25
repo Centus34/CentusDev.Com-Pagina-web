@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-25T11:25:37.219Z",
+  "updatedAt": "2026-10-25T16:16:21.414Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1819269,
-    "subscribersText": "2,42 K"
+    "subscribersText": "2,44 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1595,
-      "checkedAt": "2026-10-25T11:25:36.653Z"
+      "followers": 1598,
+      "checkedAt": "2026-10-25T16:16:20.825Z"
     },
     "instagram": {
       "followers": 2173,
@@ -18,10 +18,18 @@
   },
   "latest": [
     {
+      "id": "K5LzxIyBWWI",
+      "title": "HICE EL FRUIT NINJA EN 3D",
+      "published": "2026-10-25T12:49:44+00:00",
+      "views": 1125,
+      "description": "¿Que juego hago en 3D en el siguiente vídeo? 🤨",
+      "exact": true
+    },
+    {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
       "published": "2026-10-22T16:47:36+00:00",
-      "views": 49591,
+      "views": 52418,
       "description": "Sígueme para ver más videos como este ;)",
       "exact": true
     },
@@ -37,7 +45,7 @@
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
       "published": "2026-10-18T12:13:57+00:00",
-      "views": 1410,
+      "views": 1411,
       "description": "Que se repita muchas veces más 🙌",
       "exact": true
     },
@@ -45,7 +53,7 @@
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
       "published": "2026-10-14T13:17:08+00:00",
-      "views": 1861,
+      "views": 1866,
       "description": "Decidme que juego queréis que haga en 3D 🧟",
       "exact": true
     },
@@ -53,7 +61,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 207483,
+      "views": 207618,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     },
@@ -72,14 +80,6 @@
       "views": 200,
       "description": "¿Conoces más técnicas de iluminación? 💡",
       "exact": true
-    },
-    {
-      "id": "W2h4yQuVToc",
-      "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "published": "2026-10-01T13:35:12+00:00",
-      "views": 3315,
-      "description": "Os ha molado el vídeo? 🥊",
-      "exact": true
     }
   ],
   "top": [
@@ -96,12 +96,12 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 207483
+      "views": 207618
     },
     {
-      "id": "ydSJJxax8II",
-      "title": "NO SABES CÓMO SE ROMPEN LOS OBJETOS EN VIDEOJUEGOS",
-      "views": 49681
+      "id": "MLlhp5kr81E",
+      "title": "ESTE AGUJERO ES FALSO 🕳️",
+      "views": 52418
     }
   ],
   "archive": {
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 22447,
+      "views": 22480,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -132,7 +132,7 @@
     "M4yzi5K2rMM": {
       "id": "M4yzi5K2rMM",
       "title": "¿SABES EN REALIDAD QUE ES UNA HITBOX?",
-      "views": 6635,
+      "views": 6636,
       "exact": true,
       "published": "2026-09-02T14:52:08+00:00",
       "description": "SÍGUEME PARA CONOCER MÁS SOBRE VIDEOJUEGOS 📦"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 27249,
+      "views": 27250,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 207483,
+      "views": 207618,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 1861,
+      "views": 1866,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -482,7 +482,7 @@
     "90dsM5FRe4I": {
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
-      "views": 1410,
+      "views": 1411,
       "exact": true,
       "published": "2026-10-18T12:13:57+00:00",
       "description": "Que se repita muchas veces más 🙌"
@@ -498,10 +498,18 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 49591,
+      "views": 52418,
       "exact": true,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
+    },
+    "K5LzxIyBWWI": {
+      "id": "K5LzxIyBWWI",
+      "title": "HICE EL FRUIT NINJA EN 3D",
+      "views": 1125,
+      "exact": true,
+      "published": "2026-10-25T12:49:44+00:00",
+      "description": "¿Que juego hago en 3D en el siguiente vídeo? 🤨"
     }
   }
 }
