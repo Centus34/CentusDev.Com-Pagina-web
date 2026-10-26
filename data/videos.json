@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-25T20:49:34.029Z",
+  "updatedAt": "2026-10-26T04:44:44.815Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1840041,
-    "subscribersText": "2,45 K"
+    "subscribersText": "2,47 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1601,
-      "checkedAt": "2026-10-25T20:49:33.858Z"
+      "followers": 1605,
+      "checkedAt": "2026-10-26T04:44:44.526Z"
     },
     "instagram": {
       "followers": 2173,
@@ -101,7 +101,7 @@
     {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 59459
+      "views": 65000
     }
   ],
   "archive": {
@@ -172,7 +172,7 @@
     "94Z3rKSpMsg": {
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
-      "views": 155,
+      "views": 157,
       "exact": false,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
@@ -180,7 +180,7 @@
     "tqL19KOw_BQ": {
       "id": "tqL19KOw_BQ",
       "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
-      "views": 170,
+      "views": 172,
       "exact": false,
       "published": "2026-08-07T22:53:02+00:00",
       "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
@@ -188,7 +188,7 @@
     "V6bE78BVLMo": {
       "id": "V6bE78BVLMo",
       "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
-      "views": 101,
+      "views": 103,
       "exact": false,
       "published": "2026-08-03T22:05:38+00:00",
       "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
@@ -220,8 +220,8 @@
     "5wGSYd80CJI": {
       "id": "5wGSYd80CJI",
       "title": "HE CREADO UN JUEGO DE LA FINAL DEL MUNDIAL 🇪🇸🇦🇷",
-      "views": 9462,
-      "exact": true,
+      "views": 9500,
+      "exact": false,
       "published": "2026-07-22T17:11:35+00:00",
       "description": "¿Os gusta el juego? ⭐️⭐️"
     },
@@ -330,7 +330,7 @@
     "pMOxsOwffCk": {
       "id": "pMOxsOwffCk",
       "title": "⏱️ FORZA HORIZON 6 CARGA EN SOLO 4 SEGUNDOS ⏱️",
-      "views": 224,
+      "views": 225,
       "exact": false
     },
     "n8868mp5FJc": {
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 204,
-      "exact": true,
+      "views": 206,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -498,8 +498,8 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 59459,
-      "exact": true,
+      "views": 65000,
+      "exact": false,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
     },
