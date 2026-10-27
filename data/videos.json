@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T22:39:16.979Z",
+  "updatedAt": "2026-10-27T05:02:01.369Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1860046,
-    "subscribersText": "2,49 K"
+    "totalViews": 1862408,
+    "subscribersText": "2,5 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1608,
-      "checkedAt": "2026-10-26T22:39:16.579Z"
+      "checkedAt": "2026-10-27T05:02:00.753Z"
     },
     "instagram": {
       "followers": 2173,
@@ -101,7 +101,7 @@
     {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 67989
+      "views": 71000
     }
   ],
   "archive": {
@@ -172,7 +172,7 @@
     "94Z3rKSpMsg": {
       "id": "94Z3rKSpMsg",
       "title": "COMO SE HUNDE LA NIEVE EN VIDEOJUEGOS ❄️",
-      "views": 157,
+      "views": 158,
       "exact": false,
       "published": "2026-08-10T15:13:11+00:00",
       "description": "Si pensáis en nieve y frío soportaréis más el calor 🥵"
@@ -180,7 +180,7 @@
     "tqL19KOw_BQ": {
       "id": "tqL19KOw_BQ",
       "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
-      "views": 172,
+      "views": 173,
       "exact": false,
       "published": "2026-08-07T22:53:02+00:00",
       "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
@@ -188,7 +188,7 @@
     "V6bE78BVLMo": {
       "id": "V6bE78BVLMo",
       "title": "COMO CONSEGUÍ IR A ALEMANIA POR HACER VIDEOJUEGOS 🇩🇪",
-      "views": 103,
+      "views": 104,
       "exact": false,
       "published": "2026-08-03T22:05:38+00:00",
       "description": "Un video un poco diferente, pero quería contar cómo son las universidades de videojuegos de otros países 🇩🇪"
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 207,
-      "exact": true,
+      "views": 209,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -498,16 +498,16 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 67989,
-      "exact": true,
+      "views": 71000,
+      "exact": false,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
     },
     "K5LzxIyBWWI": {
       "id": "K5LzxIyBWWI",
       "title": "HICE EL FRUIT NINJA EN 3D",
-      "views": 1496,
-      "exact": true,
+      "views": 1700,
+      "exact": false,
       "published": "2026-10-25T12:49:44+00:00",
       "description": "¿Que juego hago en 3D en el siguiente vídeo? 🤨"
     }
