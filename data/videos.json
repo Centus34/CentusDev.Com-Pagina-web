@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-30T22:17:15.839Z",
+  "updatedAt": "2026-10-31T05:38:21.878Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1893475,
+    "totalViews": 1898990,
     "subscribersText": "2,61 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1624,
-      "checkedAt": "2026-10-30T22:17:15.377Z"
+      "followers": 1625,
+      "checkedAt": "2026-10-31T05:38:21.297Z"
     },
     "instagram": {
       "followers": 2173,
@@ -180,7 +180,7 @@
     "tqL19KOw_BQ": {
       "id": "tqL19KOw_BQ",
       "title": "🌳 ES IMPOSIBLE TENER MILES DE ÁRBOLES SIN EXPLOTAR 🌳",
-      "views": 180,
+      "views": 182,
       "exact": false,
       "published": "2026-08-07T22:53:02+00:00",
       "description": "¿Sabes cuál es el nombre de esta técnica? 🖥️"
@@ -514,8 +514,8 @@
     "U46FC-ckyYc": {
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
-      "views": 5125,
-      "exact": true,
+      "views": 5300,
+      "exact": false,
       "published": "2026-10-27T15:43:01+00:00",
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥"
     },
