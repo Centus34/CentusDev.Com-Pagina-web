@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-01T13:21:12.113Z",
+  "updatedAt": "2026-11-01T22:00:03.845Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1901110,
+    "totalViews": 1901475,
     "subscribersText": "2,61 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1627,
-      "checkedAt": "2026-11-01T13:21:11.854Z"
+      "followers": 1628,
+      "checkedAt": "2026-11-01T22:00:03.587Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
       "published": "2026-10-30T12:04:40+00:00",
-      "views": 2148,
+      "views": 2216,
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
       "published": "2026-10-27T15:43:01+00:00",
-      "views": 5512,
+      "views": 5556,
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
       "published": "2026-10-22T16:47:36+00:00",
-      "views": 95211,
+      "views": 95221,
       "description": "Sígueme para ver más videos como este ;)",
       "exact": true
     },
@@ -69,7 +69,7 @@
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
       "published": "2026-10-14T13:17:08+00:00",
-      "views": 2120,
+      "views": 2138,
       "description": "Decidme que juego queréis que haga en 3D 🧟",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
       "published": "2026-10-08T15:38:47+00:00",
-      "views": 211446,
+      "views": 211449,
       "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     }
@@ -96,12 +96,12 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211446
+      "views": 211449
     },
     {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95211
+      "views": 95221
     }
   ],
   "archive": {
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 22807,
+      "views": 22809,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3203,
+      "views": 3205,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211446,
+      "views": 211449,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2120,
+      "views": 2138,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -498,7 +498,7 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95211,
+      "views": 95221,
       "exact": true,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
@@ -514,7 +514,7 @@
     "U46FC-ckyYc": {
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
-      "views": 5512,
+      "views": 5556,
       "exact": true,
       "published": "2026-10-27T15:43:01+00:00",
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥"
@@ -522,7 +522,7 @@
     "LnQRnxUf7lg": {
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
-      "views": 2148,
+      "views": 2216,
       "exact": true,
       "published": "2026-10-30T12:04:40+00:00",
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦"
