@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-31T21:31:47.418Z",
+  "updatedAt": "2026-11-01T06:00:18.577Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1900123,
+    "totalViews": 1901110,
     "subscribersText": "2,61 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1627,
-      "checkedAt": "2026-10-31T21:31:46.971Z"
+      "checkedAt": "2026-11-01T06:00:18.286Z"
     },
     "instagram": {
       "followers": 2173,
@@ -474,8 +474,8 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2083,
-      "exact": true,
+      "views": 2100,
+      "exact": false,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
     },
@@ -522,8 +522,8 @@
     "LnQRnxUf7lg": {
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
-      "views": 1976,
-      "exact": true,
+      "views": 2100,
+      "exact": false,
       "published": "2026-10-30T12:04:40+00:00",
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦"
     }
