@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T05:59:20.320Z",
+  "updatedAt": "2026-11-02T15:47:33.548Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1901673,
-    "subscribersText": "2,62 K"
+    "subscribersText": "2,61 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1629,
-      "checkedAt": "2026-11-02T05:59:19.951Z"
+      "checkedAt": "2026-11-02T15:47:32.980Z"
     },
     "instagram": {
       "followers": 2173,
@@ -18,10 +18,18 @@
   },
   "latest": [
     {
+      "id": "JaMkAMIxLyY",
+      "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
+      "published": "2026-11-02T11:58:19+00:00",
+      "views": 1105,
+      "description": "Quería subir el video para Halloween pero se me pasó 🎃",
+      "exact": true
+    },
+    {
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
       "published": "2026-10-30T12:04:40+00:00",
-      "views": 2216,
+      "views": 2245,
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦",
       "exact": true
     },
@@ -29,7 +37,7 @@
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
       "published": "2026-10-27T15:43:01+00:00",
-      "views": 5556,
+      "views": 5587,
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥",
       "exact": true
     },
@@ -37,7 +45,7 @@
       "id": "K5LzxIyBWWI",
       "title": "HICE EL FRUIT NINJA EN 3D",
       "published": "2026-10-25T12:49:44+00:00",
-      "views": 2648,
+      "views": 2649,
       "description": "¿Que juego hago en 3D en el siguiente vídeo? 🤨",
       "exact": true
     },
@@ -45,7 +53,7 @@
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
       "published": "2026-10-22T16:47:36+00:00",
-      "views": 95221,
+      "views": 95244,
       "description": "Sígueme para ver más videos como este ;)",
       "exact": true
     },
@@ -69,16 +77,8 @@
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
       "published": "2026-10-14T13:17:08+00:00",
-      "views": 2138,
+      "views": 2157,
       "description": "Decidme que juego queréis que haga en 3D 🧟",
-      "exact": true
-    },
-    {
-      "id": "J3I2EQouZMA",
-      "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "published": "2026-10-08T15:38:47+00:00",
-      "views": 211449,
-      "description": "¿Habéis visto esto en algún juego? 🧱",
       "exact": true
     }
   ],
@@ -96,12 +96,12 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211449
+      "views": 211456
     },
     {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95221
+      "views": 95244
     }
   ],
   "archive": {
@@ -116,7 +116,7 @@
     "-XdnIwE7FO4": {
       "id": "-XdnIwE7FO4",
       "title": "COMO FUNCIONAN LAS CÁMARAS EN VIDEOJUEGOS 📸",
-      "views": 22809,
+      "views": 22815,
       "exact": true,
       "published": "2026-09-12T16:06:24+00:00",
       "description": "¿Sabéis cómo se usa el frustum para optimizar los juegos? 🔺"
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 27327,
+      "views": 27331,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211449,
+      "views": 211456,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2138,
+      "views": 2157,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -498,7 +498,7 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95221,
+      "views": 95244,
       "exact": true,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
@@ -506,7 +506,7 @@
     "K5LzxIyBWWI": {
       "id": "K5LzxIyBWWI",
       "title": "HICE EL FRUIT NINJA EN 3D",
-      "views": 2648,
+      "views": 2649,
       "exact": true,
       "published": "2026-10-25T12:49:44+00:00",
       "description": "¿Que juego hago en 3D en el siguiente vídeo? 🤨"
@@ -514,7 +514,7 @@
     "U46FC-ckyYc": {
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
-      "views": 5556,
+      "views": 5587,
       "exact": true,
       "published": "2026-10-27T15:43:01+00:00",
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥"
@@ -522,10 +522,18 @@
     "LnQRnxUf7lg": {
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
-      "views": 2216,
+      "views": 2245,
       "exact": true,
       "published": "2026-10-30T12:04:40+00:00",
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦"
+    },
+    "JaMkAMIxLyY": {
+      "id": "JaMkAMIxLyY",
+      "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
+      "views": 1105,
+      "exact": true,
+      "published": "2026-11-02T11:58:19+00:00",
+      "description": "Quería subir el video para Halloween pero se me pasó 🎃"
     }
   }
 }
