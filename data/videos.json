@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-04T19:43:49.936Z",
+  "updatedAt": "2026-11-05T06:43:51.147Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1903441,
+    "totalViews": 1903576,
     "subscribersText": "2,61 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1638,
-      "checkedAt": "2026-11-04T19:43:49.071Z"
+      "checkedAt": "2026-11-05T06:43:50.428Z"
     },
     "instagram": {
       "followers": 2173,
@@ -530,8 +530,8 @@
     "JaMkAMIxLyY": {
       "id": "JaMkAMIxLyY",
       "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
-      "views": 1538,
-      "exact": true,
+      "views": 1700,
+      "exact": false,
       "published": "2026-11-02T11:58:19+00:00",
       "description": "Quería subir el video para Halloween pero se me pasó 🎃"
     }
