@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-08T13:22:36.837Z",
+  "updatedAt": "2026-11-08T22:02:26.935Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1905148,
+    "totalViews": 1905185,
     "subscribersText": "2,62 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1654,
-      "checkedAt": "2026-11-08T13:22:36.587Z"
+      "checkedAt": "2026-11-08T22:02:26.431Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
       "published": "2026-11-06T16:04:01+00:00",
-      "views": 1144,
+      "views": 1163,
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "JaMkAMIxLyY",
       "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
       "published": "2026-11-02T11:58:19+00:00",
-      "views": 1796,
+      "views": 1797,
       "description": "Quería subir el video para Halloween pero se me pasó 🎃",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
       "published": "2026-10-22T16:47:36+00:00",
-      "views": 95287,
+      "views": 95288,
       "description": "Sígueme para ver más videos como este ;)",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
       "published": "2026-10-18T12:13:57+00:00",
-      "views": 1452,
+      "views": 1453,
       "description": "Que se repita muchas veces más 🙌",
       "exact": true
     }
@@ -101,7 +101,7 @@
     {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95287
+      "views": 95288
     }
   ],
   "archive": {
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3208,
+      "views": 3209,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2428,
+      "views": 2458,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -482,7 +482,7 @@
     "90dsM5FRe4I": {
       "id": "90dsM5FRe4I",
       "title": "DORMÍ SOLO 1 HORA Y MEDIA 😵‍💫",
-      "views": 1452,
+      "views": 1453,
       "exact": true,
       "published": "2026-10-18T12:13:57+00:00",
       "description": "Que se repita muchas veces más 🙌"
@@ -498,7 +498,7 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95287,
+      "views": 95288,
       "exact": true,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
@@ -530,7 +530,7 @@
     "JaMkAMIxLyY": {
       "id": "JaMkAMIxLyY",
       "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
-      "views": 1796,
+      "views": 1797,
       "exact": true,
       "published": "2026-11-02T11:58:19+00:00",
       "description": "Quería subir el video para Halloween pero se me pasó 🎃"
@@ -538,7 +538,7 @@
     "PthuIAWdXuk": {
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
-      "views": 1144,
+      "views": 1163,
       "exact": true,
       "published": "2026-11-06T16:04:01+00:00",
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦"
