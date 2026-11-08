@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T05:58:33.667Z",
+  "updatedAt": "2026-11-08T13:22:36.837Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1655,
-      "checkedAt": "2026-11-08T05:58:33.310Z"
+      "followers": 1654,
+      "checkedAt": "2026-11-08T13:22:36.587Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
       "published": "2026-11-06T16:04:01+00:00",
-      "views": 1138,
+      "views": 1144,
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "JaMkAMIxLyY",
       "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
       "published": "2026-11-02T11:58:19+00:00",
-      "views": 1797,
+      "views": 1796,
       "description": "Quería subir el video para Halloween pero se me pasó 🎃",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
       "published": "2026-10-30T12:04:40+00:00",
-      "views": 2273,
+      "views": 2274,
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
       "published": "2026-10-22T16:47:36+00:00",
-      "views": 95285,
+      "views": 95287,
       "description": "Sígueme para ver más videos como este ;)",
       "exact": true
     },
@@ -96,12 +96,12 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211480
+      "views": 211482
     },
     {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95285
+      "views": 95287
     }
   ],
   "archive": {
@@ -426,7 +426,7 @@
     "zwruNgrabJg": {
       "id": "zwruNgrabJg",
       "title": "PLANTS VS ZOMBIES EN 3D 🍀🧟‍♂️",
-      "views": 27344,
+      "views": 27347,
       "exact": true,
       "published": "2026-09-29T11:55:31+00:00",
       "description": "¿QUE JUEGOS QUERÉIS QUE HAGA EN 3D? 🧟‍♂️"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3207,
+      "views": 3208,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211480,
+      "views": 211482,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2401,
+      "views": 2428,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -498,7 +498,7 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95285,
+      "views": 95287,
       "exact": true,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
@@ -522,7 +522,7 @@
     "LnQRnxUf7lg": {
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
-      "views": 2273,
+      "views": 2274,
       "exact": true,
       "published": "2026-10-30T12:04:40+00:00",
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦"
@@ -530,7 +530,7 @@
     "JaMkAMIxLyY": {
       "id": "JaMkAMIxLyY",
       "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
-      "views": 1797,
+      "views": 1796,
       "exact": true,
       "published": "2026-11-02T11:58:19+00:00",
       "description": "Quería subir el video para Halloween pero se me pasó 🎃"
@@ -538,7 +538,7 @@
     "PthuIAWdXuk": {
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
-      "views": 1138,
+      "views": 1144,
       "exact": true,
       "published": "2026-11-06T16:04:01+00:00",
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦"
