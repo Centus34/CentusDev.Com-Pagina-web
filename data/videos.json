@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-09T22:19:53.875Z",
+  "updatedAt": "2026-11-10T07:15:24.203Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1905329,
+    "totalViews": 1905362,
     "subscribersText": "2,62 K"
   },
   "socials": {
     "tiktok": {
       "followers": 1657,
-      "checkedAt": "2026-11-09T22:19:53.657Z"
+      "checkedAt": "2026-11-10T07:15:23.815Z"
     },
     "instagram": {
       "followers": 2173,
@@ -474,8 +474,8 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2498,
-      "exact": true,
+      "views": 2500,
+      "exact": false,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
     },
@@ -530,8 +530,8 @@
     "JaMkAMIxLyY": {
       "id": "JaMkAMIxLyY",
       "title": "ESTE MONSTRUO SOLO PUEDES VERLO CON LA CÁMARA 📷",
-      "views": 1797,
-      "exact": true,
+      "views": 1800,
+      "exact": false,
       "published": "2026-11-02T11:58:19+00:00",
       "description": "Quería subir el video para Halloween pero se me pasó 🎃"
     },
