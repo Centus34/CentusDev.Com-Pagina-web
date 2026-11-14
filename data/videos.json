@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:19:40.734Z",
+  "updatedAt": "2026-11-14T17:59:12.128Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1678,
-      "checkedAt": "2026-11-14T06:19:40.599Z"
+      "followers": 1685,
+      "checkedAt": "2026-11-14T17:59:11.879Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
       "published": "2026-11-13T14:43:52+00:00",
-      "views": 1190,
+      "views": 1450,
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 20593,
+      "views": 21592,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
       "published": "2026-11-06T16:04:01+00:00",
-      "views": 1262,
+      "views": 1258,
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
       "published": "2026-10-27T15:43:01+00:00",
-      "views": 5609,
+      "views": 5611,
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥",
       "exact": true
     },
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211528
+      "views": 211553
     },
     {
       "id": "MLlhp5kr81E",
@@ -434,7 +434,7 @@
     "W2h4yQuVToc": {
       "id": "W2h4yQuVToc",
       "title": "POR QUÉ ESTE GOLPE ES UNA BASURA 😵",
-      "views": 3343,
+      "views": 3344,
       "exact": true,
       "published": "2026-10-01T13:35:12+00:00",
       "description": "Os ha molado el vídeo? 🥊"
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3211,
+      "views": 3213,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211528,
+      "views": 211553,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2653,
+      "views": 2712,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -514,7 +514,7 @@
     "U46FC-ckyYc": {
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
-      "views": 5609,
+      "views": 5611,
       "exact": true,
       "published": "2026-10-27T15:43:01+00:00",
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥"
@@ -538,7 +538,7 @@
     "PthuIAWdXuk": {
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
-      "views": 1262,
+      "views": 1258,
       "exact": true,
       "published": "2026-11-06T16:04:01+00:00",
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦"
@@ -546,16 +546,16 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 21000,
-      "exact": false,
+      "views": 21592,
+      "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
     },
     "1N4ejugN8w0": {
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
-      "views": 1300,
-      "exact": false,
+      "views": 1450,
+      "exact": true,
       "published": "2026-11-13T14:43:52+00:00",
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮"
     }
