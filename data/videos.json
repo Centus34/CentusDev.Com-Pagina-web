@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-13T19:39:49.699Z",
+  "updatedAt": "2026-11-14T06:19:40.734Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1925528,
+    "totalViews": 1928054,
     "subscribersText": "2,66 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1672,
-      "checkedAt": "2026-11-13T19:39:49.482Z"
+      "followers": 1678,
+      "checkedAt": "2026-11-14T06:19:40.599Z"
     },
     "instagram": {
       "followers": 2173,
@@ -546,16 +546,16 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 20593,
-      "exact": true,
+      "views": 21000,
+      "exact": false,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
     },
     "1N4ejugN8w0": {
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
-      "views": 1190,
-      "exact": true,
+      "views": 1300,
+      "exact": false,
       "published": "2026-11-13T14:43:52+00:00",
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮"
     }
