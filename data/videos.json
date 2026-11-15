@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-14T22:22:34.599Z",
+  "updatedAt": "2026-11-15T06:27:46.140Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1928054,
-    "subscribersText": "2,66 K"
+    "totalViews": 1929509,
+    "subscribersText": "2,67 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1685,
-      "checkedAt": "2026-11-14T22:22:34.093Z"
+      "followers": 1688,
+      "checkedAt": "2026-11-15T06:27:45.650Z"
     },
     "instagram": {
       "followers": 2173,
@@ -450,8 +450,8 @@
     "MNiASDD24uU": {
       "id": "MNiASDD24uU",
       "title": "LAS LUCES EN VIDEOJUEGOS NO SON REALES 💡",
-      "views": 231,
-      "exact": true,
+      "views": 232,
+      "exact": false,
       "published": "2026-10-03T17:58:23+00:00",
       "description": "¿Conoces más técnicas de iluminación? 💡"
     },
@@ -546,16 +546,16 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 21791,
-      "exact": true,
+      "views": 22000,
+      "exact": false,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
     },
     "1N4ejugN8w0": {
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
-      "views": 1684,
-      "exact": true,
+      "views": 1900,
+      "exact": false,
       "published": "2026-11-13T14:43:52+00:00",
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮"
     }
