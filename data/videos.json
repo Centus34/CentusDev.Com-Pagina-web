@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-16T06:25:15.655Z",
+  "updatedAt": "2026-11-16T21:59:41.648Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1930679,
+    "totalViews": 1930925,
     "subscribersText": "2,66 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1700,
-      "checkedAt": "2026-11-16T06:25:15.512Z"
+      "followers": 1704,
+      "checkedAt": "2026-11-16T21:59:41.215Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
       "published": "2026-11-13T14:43:52+00:00",
-      "views": 2006,
+      "views": 2136,
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22422,
+      "views": 22785,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
       "published": "2026-10-27T15:43:01+00:00",
-      "views": 5615,
+      "views": 5623,
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
       "published": "2026-10-22T16:47:36+00:00",
-      "views": 95293,
+      "views": 95296,
       "description": "Sígueme para ver más videos como este ;)",
       "exact": true
     }
@@ -96,12 +96,12 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211564
+      "views": 211572
     },
     {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95293
+      "views": 95296
     }
   ],
   "archive": {
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211564,
+      "views": 211572,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2770,
+      "views": 2800,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -498,7 +498,7 @@
     "MLlhp5kr81E": {
       "id": "MLlhp5kr81E",
       "title": "ESTE AGUJERO ES FALSO 🕳️",
-      "views": 95293,
+      "views": 95296,
       "exact": true,
       "published": "2026-10-22T16:47:36+00:00",
       "description": "Sígueme para ver más videos como este ;)"
@@ -514,7 +514,7 @@
     "U46FC-ckyYc": {
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
-      "views": 5615,
+      "views": 5623,
       "exact": true,
       "published": "2026-10-27T15:43:01+00:00",
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22422,
+      "views": 22785,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -554,7 +554,7 @@
     "1N4ejugN8w0": {
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
-      "views": 2006,
+      "views": 2136,
       "exact": true,
       "published": "2026-11-13T14:43:52+00:00",
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮"
