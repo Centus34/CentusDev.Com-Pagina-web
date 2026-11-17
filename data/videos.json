@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T07:53:04.049Z",
+  "updatedAt": "2026-11-17T20:53:52.173Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1930925,
+    "totalViews": 1931036,
     "subscribersText": "2,67 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1706,
-      "checkedAt": "2026-11-17T07:53:03.835Z"
+      "followers": 1709,
+      "checkedAt": "2026-11-17T20:53:51.459Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
       "published": "2026-11-13T14:43:52+00:00",
-      "views": 2155,
+      "views": 2158,
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22796,
+      "views": 22805,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
       "published": "2026-11-06T16:04:01+00:00",
-      "views": 1259,
+      "views": 1260,
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦",
       "exact": true
     },
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2814,
+      "views": 2819,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -538,7 +538,7 @@
     "PthuIAWdXuk": {
       "id": "PthuIAWdXuk",
       "title": "ENFRENTO A MIS SEGUIDORES EN MI VIDEOJUEGO",
-      "views": 1259,
+      "views": 1260,
       "exact": true,
       "published": "2026-11-06T16:04:01+00:00",
       "description": "¿DE QUÉ EQUIPO SOIS? 🟥🟦"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22796,
+      "views": 22805,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -554,7 +554,7 @@
     "1N4ejugN8w0": {
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
-      "views": 2155,
+      "views": 2158,
       "exact": true,
       "published": "2026-11-13T14:43:52+00:00",
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮"
