@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-16T21:59:41.648Z",
+  "updatedAt": "2026-11-17T07:53:04.049Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
     "totalViews": 1930925,
-    "subscribersText": "2,66 K"
+    "subscribersText": "2,67 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1704,
-      "checkedAt": "2026-11-16T21:59:41.215Z"
+      "followers": 1706,
+      "checkedAt": "2026-11-17T07:53:03.835Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
       "published": "2026-11-13T14:43:52+00:00",
-      "views": 2136,
+      "views": 2155,
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22785,
+      "views": 22796,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211572
+      "views": 211576
     },
     {
       "id": "MLlhp5kr81E",
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211572,
+      "views": 211576,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2800,
+      "views": 2814,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22785,
+      "views": 22796,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -554,7 +554,7 @@
     "1N4ejugN8w0": {
       "id": "1N4ejugN8w0",
       "title": "ESTÁ PUERTA NO LLEVA A UN TÚNEL",
-      "views": 2136,
+      "views": 2155,
       "exact": true,
       "published": "2026-11-13T14:43:52+00:00",
       "description": "¿Sabes en qué juegos se usa esta técnica? 🎮"
