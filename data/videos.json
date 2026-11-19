@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:22:18.257Z",
+  "updatedAt": "2026-11-19T20:34:09.707Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
@@ -8,8 +8,8 @@
   },
   "socials": {
     "tiktok": {
-      "followers": 1720,
-      "checkedAt": "2026-11-19T07:22:17.615Z"
+      "followers": 1723,
+      "checkedAt": "2026-11-19T20:34:09.141Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "rKDcmwlc6C4",
       "title": "ESTE ENEMIGO DEBERÍA MOVERSE",
       "published": "2026-11-18T18:33:39+00:00",
-      "views": 1527,
+      "views": 1590,
       "description": "¿Sabes dónde se suele usar TCP? 🤔",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22858,
+      "views": 22866,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211579
+      "views": 211582
     },
     {
       "id": "MLlhp5kr81E",
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211579,
+      "views": 211582,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2915,
+      "views": 2931,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22858,
+      "views": 22866,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -562,7 +562,7 @@
     "rKDcmwlc6C4": {
       "id": "rKDcmwlc6C4",
       "title": "ESTE ENEMIGO DEBERÍA MOVERSE",
-      "views": 1527,
+      "views": 1590,
       "exact": true,
       "published": "2026-11-18T18:33:39+00:00",
       "description": "¿Sabes dónde se suele usar TCP? 🤔"
