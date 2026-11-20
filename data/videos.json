@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-19T20:34:09.707Z",
+  "updatedAt": "2026-11-20T07:12:24.457Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1931192,
+    "totalViews": 1932979,
     "subscribersText": "2,67 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1723,
-      "checkedAt": "2026-11-19T20:34:09.141Z"
+      "followers": 1725,
+      "checkedAt": "2026-11-20T07:12:23.944Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "rKDcmwlc6C4",
       "title": "ESTE ENEMIGO DEBERÍA MOVERSE",
       "published": "2026-11-18T18:33:39+00:00",
-      "views": 1590,
+      "views": 1657,
       "description": "¿Sabes dónde se suele usar TCP? 🤔",
       "exact": true
     },
@@ -37,7 +37,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22866,
+      "views": 22876,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -61,7 +61,7 @@
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
       "published": "2026-10-30T12:04:40+00:00",
-      "views": 2279,
+      "views": 2280,
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦",
       "exact": true
     },
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211582
+      "views": 211583
     },
     {
       "id": "MLlhp5kr81E",
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211582,
+      "views": 211583,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 2931,
+      "views": 2963,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -522,7 +522,7 @@
     "LnQRnxUf7lg": {
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
-      "views": 2279,
+      "views": 2280,
       "exact": true,
       "published": "2026-10-30T12:04:40+00:00",
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22866,
+      "views": 22876,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -562,7 +562,7 @@
     "rKDcmwlc6C4": {
       "id": "rKDcmwlc6C4",
       "title": "ESTE ENEMIGO DEBERÍA MOVERSE",
-      "views": 1590,
+      "views": 1657,
       "exact": true,
       "published": "2026-11-18T18:33:39+00:00",
       "description": "¿Sabes dónde se suele usar TCP? 🤔"
