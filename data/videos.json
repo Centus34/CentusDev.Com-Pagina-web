@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-21T19:13:53.425Z",
+  "updatedAt": "2026-11-22T06:44:56.765Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1933768,
+    "totalViews": 1934086,
     "subscribersText": "2,67 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1738,
-      "checkedAt": "2026-11-21T19:13:52.954Z"
+      "followers": 1743,
+      "checkedAt": "2026-11-22T06:44:56.328Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "BAmwwzXbFU8",
       "title": "MI PRIMERA BATALLA CON MIS SEGUIDORES",
       "published": "2026-11-20T17:56:24+00:00",
-      "views": 1088,
+      "views": 1042,
       "description": "¿Ganaste o perdiste? 😞",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "rKDcmwlc6C4",
       "title": "ESTE ENEMIGO DEBERÍA MOVERSE",
       "published": "2026-11-18T18:33:39+00:00",
-      "views": 2403,
+      "views": 2546,
       "description": "¿Sabes dónde se suele usar TCP? 🤔",
       "exact": true
     },
@@ -45,7 +45,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22908,
+      "views": 22911,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
       "published": "2026-10-27T15:43:01+00:00",
-      "views": 5631,
+      "views": 5632,
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥",
       "exact": true
     }
@@ -458,7 +458,7 @@
     "PdY-vOO7Ve4": {
       "id": "PdY-vOO7Ve4",
       "title": "HAN METIDO MINECRAFT EN ESTOS JUEGOS",
-      "views": 3215,
+      "views": 3216,
       "exact": true,
       "published": "2026-10-05T16:17:39+00:00",
       "description": "¿Queréis ver el Minecraft en alguno de mis juegos? 😮‍💨"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 3040,
+      "views": 3072,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -506,7 +506,7 @@
     "K5LzxIyBWWI": {
       "id": "K5LzxIyBWWI",
       "title": "HICE EL FRUIT NINJA EN 3D",
-      "views": 2664,
+      "views": 2665,
       "exact": true,
       "published": "2026-10-25T12:49:44+00:00",
       "description": "¿Que juego hago en 3D en el siguiente vídeo? 🤨"
@@ -514,7 +514,7 @@
     "U46FC-ckyYc": {
       "id": "U46FC-ckyYc",
       "title": "EL ANGRY BIRDS ES UNA BASURA, MEJOR EN 3D 🐥",
-      "views": 5631,
+      "views": 5632,
       "exact": true,
       "published": "2026-10-27T15:43:01+00:00",
       "description": "QUE JUEGO QUERÉIS QUE HAGA EN 3D 🐥"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22908,
+      "views": 22911,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -562,7 +562,7 @@
     "rKDcmwlc6C4": {
       "id": "rKDcmwlc6C4",
       "title": "ESTE ENEMIGO DEBERÍA MOVERSE",
-      "views": 2403,
+      "views": 2546,
       "exact": true,
       "published": "2026-11-18T18:33:39+00:00",
       "description": "¿Sabes dónde se suele usar TCP? 🤔"
@@ -570,7 +570,7 @@
     "BAmwwzXbFU8": {
       "id": "BAmwwzXbFU8",
       "title": "MI PRIMERA BATALLA CON MIS SEGUIDORES",
-      "views": 1088,
+      "views": 1042,
       "exact": true,
       "published": "2026-11-20T17:56:24+00:00",
       "description": "¿Ganaste o perdiste? 😞"
