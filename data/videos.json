@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-23T23:51:41.878Z",
+  "updatedAt": "2026-11-24T09:52:09.453Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1935492,
+    "totalViews": 1935545,
     "subscribersText": "2,68 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1749,
-      "checkedAt": "2026-11-23T23:51:41.567Z"
+      "followers": 1751,
+      "checkedAt": "2026-11-24T09:52:09.100Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "aksNVOjsXbU",
       "title": "DESARROLLADOR EXPLICA CÓMO FUNCIONAN LOS NPCS DEL GTA 6",
       "published": "2026-11-23T15:10:53+00:00",
-      "views": 4214,
+      "views": 4488,
       "description": "¿Que es lo más loco que os ha pasado en GTA 6? 🔫",
       "exact": true
     },
@@ -29,7 +29,7 @@
       "id": "BAmwwzXbFU8",
       "title": "MI PRIMERA BATALLA CON MIS SEGUIDORES",
       "published": "2026-11-20T17:56:24+00:00",
-      "views": 1098,
+      "views": 1102,
       "description": "¿Ganaste o perdiste? 😞",
       "exact": true
     },
@@ -53,7 +53,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22938,
+      "views": 22943,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -77,7 +77,7 @@
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
       "published": "2026-10-30T12:04:40+00:00",
-      "views": 2281,
+      "views": 2282,
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦",
       "exact": true
     }
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211606
+      "views": 211611
     },
     {
       "id": "MLlhp5kr81E",
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211606,
+      "views": 211611,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 3171,
+      "views": 3197,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -522,7 +522,7 @@
     "LnQRnxUf7lg": {
       "id": "LnQRnxUf7lg",
       "title": "ESTOS PÁJAROS NO TIENEN IA",
-      "views": 2281,
+      "views": 2282,
       "exact": true,
       "published": "2026-10-30T12:04:40+00:00",
       "description": "¿EN QUÉ JUEGOS HABÉIS VISTO ESTA TÉCNICA? 🐦"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22938,
+      "views": 22943,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -570,7 +570,7 @@
     "BAmwwzXbFU8": {
       "id": "BAmwwzXbFU8",
       "title": "MI PRIMERA BATALLA CON MIS SEGUIDORES",
-      "views": 1098,
+      "views": 1102,
       "exact": true,
       "published": "2026-11-20T17:56:24+00:00",
       "description": "¿Ganaste o perdiste? 😞"
@@ -578,7 +578,7 @@
     "aksNVOjsXbU": {
       "id": "aksNVOjsXbU",
       "title": "DESARROLLADOR EXPLICA CÓMO FUNCIONAN LOS NPCS DEL GTA 6",
-      "views": 4214,
+      "views": 4488,
       "exact": true,
       "published": "2026-11-23T15:10:53+00:00",
       "description": "¿Que es lo más loco que os ha pasado en GTA 6? 🔫"
