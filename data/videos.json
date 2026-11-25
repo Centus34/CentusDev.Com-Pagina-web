@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T22:24:43.626Z",
+  "updatedAt": "2026-11-25T08:30:31.499Z",
   "channel": {
     "handle": "@CentusDev",
     "id": "UCvpACFi3Lidlauv1GoH4f8w",
-    "totalViews": 1940272,
-    "subscribersText": "2,68 K"
+    "totalViews": 1942873,
+    "subscribersText": "2,69 K"
   },
   "socials": {
     "tiktok": {
-      "followers": 1754,
-      "checkedAt": "2026-11-24T22:24:43.162Z"
+      "followers": 1758,
+      "checkedAt": "2026-11-25T08:30:30.934Z"
     },
     "instagram": {
       "followers": 2173,
@@ -21,7 +21,7 @@
       "id": "aksNVOjsXbU",
       "title": "DESARROLLADOR EXPLICA CÓMO FUNCIONAN LOS NPCS DEL GTA 6",
       "published": "2026-11-23T15:10:53+00:00",
-      "views": 6692,
+      "views": 11714,
       "description": "¿Que es lo más loco que os ha pasado en GTA 6? 🔫",
       "exact": true
     },
@@ -53,7 +53,7 @@
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
       "published": "2026-11-11T14:10:27+00:00",
-      "views": 22947,
+      "views": 22954,
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️",
       "exact": true
     },
@@ -96,7 +96,7 @@
     {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211611
+      "views": 211616
     },
     {
       "id": "MLlhp5kr81E",
@@ -466,7 +466,7 @@
     "J3I2EQouZMA": {
       "id": "J3I2EQouZMA",
       "title": "ESTOS LADRILLOS SON UNA IMAGEN 🧱",
-      "views": 211611,
+      "views": 211616,
       "exact": true,
       "published": "2026-10-08T15:38:47+00:00",
       "description": "¿Habéis visto esto en algún juego? 🧱"
@@ -474,7 +474,7 @@
     "HHQDOQueFPw": {
       "id": "HHQDOQueFPw",
       "title": "ZOMBIES TSUNAMI EN 3D",
-      "views": 3211,
+      "views": 3235,
       "exact": true,
       "published": "2026-10-14T13:17:08+00:00",
       "description": "Decidme que juego queréis que haga en 3D 🧟"
@@ -546,7 +546,7 @@
     "0xPrRHwxRh0": {
       "id": "0xPrRHwxRh0",
       "title": "LA NIEBLA DEL ZELDA ES IMPOSIBLE 😶‍🌫️",
-      "views": 22947,
+      "views": 22954,
       "exact": true,
       "published": "2026-11-11T14:10:27+00:00",
       "description": "¿Sabéis en qué más juegos se hace este truco? 😶‍🌫️"
@@ -578,7 +578,7 @@
     "aksNVOjsXbU": {
       "id": "aksNVOjsXbU",
       "title": "DESARROLLADOR EXPLICA CÓMO FUNCIONAN LOS NPCS DEL GTA 6",
-      "views": 6692,
+      "views": 11714,
       "exact": true,
       "published": "2026-11-23T15:10:53+00:00",
       "description": "¿Que es lo más loco que os ha pasado en GTA 6? 🔫"
